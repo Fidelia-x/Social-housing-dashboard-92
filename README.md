@@ -2,6 +2,9 @@
 
 > 🚧 Projet en cours
 
+Dashboard Power BI sur le logement social dans les Hauts-de-Seine : loyers, vacance, performance
+énergétique et évolution 2020–2025, avec une préparation des données en Python.
+
 Analyse du parc de logements sociaux des Hauts-de-Seine (92) à partir des données publiques RPLS
 (Répertoire des logements locatifs des bailleurs sociaux, SDES — ministère de la Transition écologique).
 
@@ -38,12 +41,14 @@ en gardant l'année dans le nom : `rpls_2025.zip`, `rpls_2024.xlsx`, etc.
 ## Lancer le projet
 
 ```bash
+git clone https://github.com/Fidelia-x/social-housing-dashboard-92.git
+cd social-housing-dashboard-92
 pip install -r requirements.txt
 python scripts/prepare_data.py --explore   # voir la structure des fichiers
 python scripts/prepare_data.py             # produit data/processed/rpls_communes_92.csv
 ```
 
-Puis ouvrir `powerbi/rpls_92.pbix` dans Power BI Desktop.
+Puis ouvrir `powerbi/social_housing_92.pbix` dans Power BI Desktop.
 
 ## Stack
 
