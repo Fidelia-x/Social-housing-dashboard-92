@@ -1,0 +1,1225 @@
+﻿code_commune;annee;theme;categorie;ordre;nb_logements
+92002;2025;DPE énergie (avant 07/2021);A;1;19
+92002;2025;DPE énergie (avant 07/2021);B;2;346
+92002;2025;DPE énergie (avant 07/2021);C;3;443
+92002;2025;DPE énergie (avant 07/2021);D;4;1281
+92002;2025;DPE énergie (avant 07/2021);E;5;374
+92002;2025;DPE énergie (avant 07/2021);F;6;44
+92002;2025;DPE énergie (avant 07/2021);G;7;3
+92002;2025;DPE énergie (avant 07/2021);Non renseigné;8;1
+92002;2025;DPE énergie (depuis 07/2021);A;1;0
+92002;2025;DPE énergie (depuis 07/2021);B;2;22
+92002;2025;DPE énergie (depuis 07/2021);C;3;425
+92002;2025;DPE énergie (depuis 07/2021);D;4;304
+92002;2025;DPE énergie (depuis 07/2021);E;5;109
+92002;2025;DPE énergie (depuis 07/2021);F;6;41
+92002;2025;DPE énergie (depuis 07/2021);G;7;8
+92002;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92002;2025;Financement d'origine;PLAI;1;169
+92002;2025;Financement d'origine;PLUS avant 1977;2;3529
+92002;2025;Financement d'origine;PLUS après 1977;3;1633
+92002;2025;Financement d'origine;PLS;4;285
+92002;2025;Financement d'origine;PLI;5;516
+92002;2025;Nombre de pièces;1 pièce;1;665
+92002;2025;Nombre de pièces;2 pièces;2;1388
+92002;2025;Nombre de pièces;3 pièces;3;2065
+92002;2025;Nombre de pièces;4 pièces;4;1412
+92002;2025;Nombre de pièces;5 pièces et +;5;602
+92002;2025;Type de construction;Individuel;1;129
+92002;2025;Type de construction;Collectif;2;6003
+92002;2025;Âge du parc;Moins de 5 ans;1;114
+92002;2025;Âge du parc;5 à 10 ans;2;99
+92002;2025;Âge du parc;10 à 20 ans;3;600
+92002;2025;Âge du parc;20 à 40 ans;4;162
+92002;2025;Âge du parc;40 à 60 ans;5;2812
+92002;2025;Âge du parc;Plus de 60 ans;6;2345
+92004;2025;DPE énergie (avant 07/2021);A;1;74
+92004;2025;DPE énergie (avant 07/2021);B;2;187
+92004;2025;DPE énergie (avant 07/2021);C;3;1710
+92004;2025;DPE énergie (avant 07/2021);D;4;2696
+92004;2025;DPE énergie (avant 07/2021);E;5;775
+92004;2025;DPE énergie (avant 07/2021);F;6;39
+92004;2025;DPE énergie (avant 07/2021);G;7;23
+92004;2025;DPE énergie (avant 07/2021);Non renseigné;8;2
+92004;2025;DPE énergie (depuis 07/2021);A;1;90
+92004;2025;DPE énergie (depuis 07/2021);B;2;229
+92004;2025;DPE énergie (depuis 07/2021);C;3;1402
+92004;2025;DPE énergie (depuis 07/2021);D;4;1296
+92004;2025;DPE énergie (depuis 07/2021);E;5;410
+92004;2025;DPE énergie (depuis 07/2021);F;6;222
+92004;2025;DPE énergie (depuis 07/2021);G;7;11
+92004;2025;DPE énergie (depuis 07/2021);Non renseigné;8;105
+92004;2025;Financement d'origine;PLAI;1;592
+92004;2025;Financement d'origine;PLUS avant 1977;2;3916
+92004;2025;Financement d'origine;PLUS après 1977;3;2398
+92004;2025;Financement d'origine;PLS;4;1904
+92004;2025;Financement d'origine;PLI;5;980
+92004;2025;Nombre de pièces;1 pièce;1;848
+92004;2025;Nombre de pièces;2 pièces;2;2561
+92004;2025;Nombre de pièces;3 pièces;3;3596
+92004;2025;Nombre de pièces;4 pièces;4;2313
+92004;2025;Nombre de pièces;5 pièces et +;5;472
+92004;2025;Type de construction;Individuel;1;66
+92004;2025;Type de construction;Collectif;2;9724
+92004;2025;Âge du parc;Moins de 5 ans;1;1078
+92004;2025;Âge du parc;5 à 10 ans;2;366
+92004;2025;Âge du parc;10 à 20 ans;3;524
+92004;2025;Âge du parc;20 à 40 ans;4;1973
+92004;2025;Âge du parc;40 à 60 ans;5;2598
+92004;2025;Âge du parc;Plus de 60 ans;6;3251
+92007;2025;DPE énergie (avant 07/2021);A;1;0
+92007;2025;DPE énergie (avant 07/2021);B;2;141
+92007;2025;DPE énergie (avant 07/2021);C;3;417
+92007;2025;DPE énergie (avant 07/2021);D;4;2358
+92007;2025;DPE énergie (avant 07/2021);E;5;57
+92007;2025;DPE énergie (avant 07/2021);F;6;5
+92007;2025;DPE énergie (avant 07/2021);G;7;0
+92007;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92007;2025;DPE énergie (depuis 07/2021);A;1;197
+92007;2025;DPE énergie (depuis 07/2021);B;2;623
+92007;2025;DPE énergie (depuis 07/2021);C;3;3877
+92007;2025;DPE énergie (depuis 07/2021);D;4;1066
+92007;2025;DPE énergie (depuis 07/2021);E;5;47
+92007;2025;DPE énergie (depuis 07/2021);F;6;7
+92007;2025;DPE énergie (depuis 07/2021);G;7;39
+92007;2025;DPE énergie (depuis 07/2021);Non renseigné;8;342
+92007;2025;Financement d'origine;PLAI;1;213
+92007;2025;Financement d'origine;PLUS avant 1977;2;4962
+92007;2025;Financement d'origine;PLUS après 1977;3;3538
+92007;2025;Financement d'origine;PLS;4;2192
+92007;2025;Financement d'origine;PLI;5;186
+92007;2025;Nombre de pièces;1 pièce;1;406
+92007;2025;Nombre de pièces;2 pièces;2;2795
+92007;2025;Nombre de pièces;3 pièces;3;4363
+92007;2025;Nombre de pièces;4 pièces;4;2789
+92007;2025;Nombre de pièces;5 pièces et +;5;738
+92007;2025;Type de construction;Individuel;1;3
+92007;2025;Type de construction;Collectif;2;11088
+92007;2025;Âge du parc;Moins de 5 ans;1;551
+92007;2025;Âge du parc;5 à 10 ans;2;91
+92007;2025;Âge du parc;10 à 20 ans;3;1096
+92007;2025;Âge du parc;20 à 40 ans;4;2430
+92007;2025;Âge du parc;40 à 60 ans;5;2979
+92007;2025;Âge du parc;Plus de 60 ans;6;3944
+92009;2025;DPE énergie (avant 07/2021);A;1;88
+92009;2025;DPE énergie (avant 07/2021);B;2;192
+92009;2025;DPE énergie (avant 07/2021);C;3;201
+92009;2025;DPE énergie (avant 07/2021);D;4;1092
+92009;2025;DPE énergie (avant 07/2021);E;5;406
+92009;2025;DPE énergie (avant 07/2021);F;6;38
+92009;2025;DPE énergie (avant 07/2021);G;7;3
+92009;2025;DPE énergie (avant 07/2021);Non renseigné;8;3
+92009;2025;DPE énergie (depuis 07/2021);A;1;0
+92009;2025;DPE énergie (depuis 07/2021);B;2;9
+92009;2025;DPE énergie (depuis 07/2021);C;3;48
+92009;2025;DPE énergie (depuis 07/2021);D;4;188
+92009;2025;DPE énergie (depuis 07/2021);E;5;215
+92009;2025;DPE énergie (depuis 07/2021);F;6;22
+92009;2025;DPE énergie (depuis 07/2021);G;7;17
+92009;2025;DPE énergie (depuis 07/2021);Non renseigné;8;34
+92009;2025;Financement d'origine;PLAI;1;149
+92009;2025;Financement d'origine;PLUS avant 1977;2;1328
+92009;2025;Financement d'origine;PLUS après 1977;3;750
+92009;2025;Financement d'origine;PLS;4;316
+92009;2025;Financement d'origine;PLI;5;82
+92009;2025;Nombre de pièces;1 pièce;1;462
+92009;2025;Nombre de pièces;2 pièces;2;613
+92009;2025;Nombre de pièces;3 pièces;3;1011
+92009;2025;Nombre de pièces;4 pièces;4;480
+92009;2025;Nombre de pièces;5 pièces et +;5;59
+92009;2025;Type de construction;Individuel;1;29
+92009;2025;Type de construction;Collectif;2;2596
+92009;2025;Âge du parc;Moins de 5 ans;1;57
+92009;2025;Âge du parc;5 à 10 ans;2;280
+92009;2025;Âge du parc;10 à 20 ans;3;161
+92009;2025;Âge du parc;20 à 40 ans;4;569
+92009;2025;Âge du parc;40 à 60 ans;5;719
+92009;2025;Âge du parc;Plus de 60 ans;6;839
+92012;2025;DPE énergie (avant 07/2021);A;1;33
+92012;2025;DPE énergie (avant 07/2021);B;2;434
+92012;2025;DPE énergie (avant 07/2021);C;3;487
+92012;2025;DPE énergie (avant 07/2021);D;4;786
+92012;2025;DPE énergie (avant 07/2021);E;5;829
+92012;2025;DPE énergie (avant 07/2021);F;6;154
+92012;2025;DPE énergie (avant 07/2021);G;7;53
+92012;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92012;2025;DPE énergie (depuis 07/2021);A;1;0
+92012;2025;DPE énergie (depuis 07/2021);B;2;168
+92012;2025;DPE énergie (depuis 07/2021);C;3;2867
+92012;2025;DPE énergie (depuis 07/2021);D;4;1025
+92012;2025;DPE énergie (depuis 07/2021);E;5;831
+92012;2025;DPE énergie (depuis 07/2021);F;6;64
+92012;2025;DPE énergie (depuis 07/2021);G;7;92
+92012;2025;DPE énergie (depuis 07/2021);Non renseigné;8;106
+92012;2025;Financement d'origine;PLAI;1;460
+92012;2025;Financement d'origine;PLUS avant 1977;2;2888
+92012;2025;Financement d'origine;PLUS après 1977;3;2759
+92012;2025;Financement d'origine;PLS;4;1987
+92012;2025;Financement d'origine;PLI;5;742
+92012;2025;Nombre de pièces;1 pièce;1;1145
+92012;2025;Nombre de pièces;2 pièces;2;2707
+92012;2025;Nombre de pièces;3 pièces;3;3180
+92012;2025;Nombre de pièces;4 pièces;4;1459
+92012;2025;Nombre de pièces;5 pièces et +;5;345
+92012;2025;Type de construction;Individuel;1;13
+92012;2025;Type de construction;Collectif;2;8823
+92012;2025;Âge du parc;Moins de 5 ans;1;265
+92012;2025;Âge du parc;5 à 10 ans;2;755
+92012;2025;Âge du parc;10 à 20 ans;3;1863
+92012;2025;Âge du parc;20 à 40 ans;4;1472
+92012;2025;Âge du parc;40 à 60 ans;5;1795
+92012;2025;Âge du parc;Plus de 60 ans;6;2686
+92014;2025;DPE énergie (avant 07/2021);A;1;0
+92014;2025;DPE énergie (avant 07/2021);B;2;46
+92014;2025;DPE énergie (avant 07/2021);C;3;168
+92014;2025;DPE énergie (avant 07/2021);D;4;392
+92014;2025;DPE énergie (avant 07/2021);E;5;132
+92014;2025;DPE énergie (avant 07/2021);F;6;0
+92014;2025;DPE énergie (avant 07/2021);G;7;0
+92014;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92014;2025;DPE énergie (depuis 07/2021);A;1;0
+92014;2025;DPE énergie (depuis 07/2021);B;2;12
+92014;2025;DPE énergie (depuis 07/2021);C;3;170
+92014;2025;DPE énergie (depuis 07/2021);D;4;129
+92014;2025;DPE énergie (depuis 07/2021);E;5;8
+92014;2025;DPE énergie (depuis 07/2021);F;6;0
+92014;2025;DPE énergie (depuis 07/2021);G;7;0
+92014;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92014;2025;Financement d'origine;PLAI;1;87
+92014;2025;Financement d'origine;PLUS avant 1977;2;924
+92014;2025;Financement d'origine;PLUS après 1977;3;389
+92014;2025;Financement d'origine;PLS;4;189
+92014;2025;Financement d'origine;PLI;5;142
+92014;2025;Nombre de pièces;1 pièce;1;270
+92014;2025;Nombre de pièces;2 pièces;2;437
+92014;2025;Nombre de pièces;3 pièces;3;555
+92014;2025;Nombre de pièces;4 pièces;4;353
+92014;2025;Nombre de pièces;5 pièces et +;5;116
+92014;2025;Type de construction;Individuel;1;0
+92014;2025;Type de construction;Collectif;2;1731
+92014;2025;Âge du parc;Moins de 5 ans;1;216
+92014;2025;Âge du parc;5 à 10 ans;2;109
+92014;2025;Âge du parc;10 à 20 ans;3;124
+92014;2025;Âge du parc;20 à 40 ans;4;165
+92014;2025;Âge du parc;40 à 60 ans;5;537
+92014;2025;Âge du parc;Plus de 60 ans;6;580
+92019;2025;DPE énergie (avant 07/2021);A;1;0
+92019;2025;DPE énergie (avant 07/2021);B;2;0
+92019;2025;DPE énergie (avant 07/2021);C;3;755
+92019;2025;DPE énergie (avant 07/2021);D;4;285
+92019;2025;DPE énergie (avant 07/2021);E;5;78
+92019;2025;DPE énergie (avant 07/2021);F;6;0
+92019;2025;DPE énergie (avant 07/2021);G;7;0
+92019;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92019;2025;DPE énergie (depuis 07/2021);A;1;0
+92019;2025;DPE énergie (depuis 07/2021);B;2;1
+92019;2025;DPE énergie (depuis 07/2021);C;3;102
+92019;2025;DPE énergie (depuis 07/2021);D;4;161
+92019;2025;DPE énergie (depuis 07/2021);E;5;45
+92019;2025;DPE énergie (depuis 07/2021);F;6;6
+92019;2025;DPE énergie (depuis 07/2021);G;7;0
+92019;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92019;2025;Financement d'origine;PLAI;1;59
+92019;2025;Financement d'origine;PLUS avant 1977;2;4567
+92019;2025;Financement d'origine;PLUS après 1977;3;1063
+92019;2025;Financement d'origine;PLS;4;121
+92019;2025;Financement d'origine;PLI;5;515
+92019;2025;Nombre de pièces;1 pièce;1;266
+92019;2025;Nombre de pièces;2 pièces;2;1669
+92019;2025;Nombre de pièces;3 pièces;3;2640
+92019;2025;Nombre de pièces;4 pièces;4;1346
+92019;2025;Nombre de pièces;5 pièces et +;5;404
+92019;2025;Type de construction;Individuel;1;15
+92019;2025;Type de construction;Collectif;2;6310
+92019;2025;Âge du parc;Moins de 5 ans;1;105
+92019;2025;Âge du parc;5 à 10 ans;2;0
+92019;2025;Âge du parc;10 à 20 ans;3;36
+92019;2025;Âge du parc;20 à 40 ans;4;1165
+92019;2025;Âge du parc;40 à 60 ans;5;696
+92019;2025;Âge du parc;Plus de 60 ans;6;4323
+92020;2025;DPE énergie (avant 07/2021);A;1;0
+92020;2025;DPE énergie (avant 07/2021);B;2;9
+92020;2025;DPE énergie (avant 07/2021);C;3;160
+92020;2025;DPE énergie (avant 07/2021);D;4;830
+92020;2025;DPE énergie (avant 07/2021);E;5;237
+92020;2025;DPE énergie (avant 07/2021);F;6;9
+92020;2025;DPE énergie (avant 07/2021);G;7;0
+92020;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92020;2025;DPE énergie (depuis 07/2021);A;1;0
+92020;2025;DPE énergie (depuis 07/2021);B;2;19
+92020;2025;DPE énergie (depuis 07/2021);C;3;1047
+92020;2025;DPE énergie (depuis 07/2021);D;4;704
+92020;2025;DPE énergie (depuis 07/2021);E;5;175
+92020;2025;DPE énergie (depuis 07/2021);F;6;45
+92020;2025;DPE énergie (depuis 07/2021);G;7;16
+92020;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92020;2025;Financement d'origine;PLAI;1;80
+92020;2025;Financement d'origine;PLUS avant 1977;2;1789
+92020;2025;Financement d'origine;PLUS après 1977;3;1289
+92020;2025;Financement d'origine;PLS;4;478
+92020;2025;Financement d'origine;PLI;5;452
+92020;2025;Nombre de pièces;1 pièce;1;600
+92020;2025;Nombre de pièces;2 pièces;2;802
+92020;2025;Nombre de pièces;3 pièces;3;1467
+92020;2025;Nombre de pièces;4 pièces;4;961
+92020;2025;Nombre de pièces;5 pièces et +;5;258
+92020;2025;Type de construction;Individuel;1;40
+92020;2025;Type de construction;Collectif;2;4048
+92020;2025;Âge du parc;Moins de 5 ans;1;183
+92020;2025;Âge du parc;5 à 10 ans;2;28
+92020;2025;Âge du parc;10 à 20 ans;3;198
+92020;2025;Âge du parc;20 à 40 ans;4;1098
+92020;2025;Âge du parc;40 à 60 ans;5;1182
+92020;2025;Âge du parc;Plus de 60 ans;6;1399
+92022;2025;DPE énergie (avant 07/2021);A;1;0
+92022;2025;DPE énergie (avant 07/2021);B;2;163
+92022;2025;DPE énergie (avant 07/2021);C;3;491
+92022;2025;DPE énergie (avant 07/2021);D;4;184
+92022;2025;DPE énergie (avant 07/2021);E;5;470
+92022;2025;DPE énergie (avant 07/2021);F;6;137
+92022;2025;DPE énergie (avant 07/2021);G;7;6
+92022;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92022;2025;DPE énergie (depuis 07/2021);A;1;0
+92022;2025;DPE énergie (depuis 07/2021);B;2;8
+92022;2025;DPE énergie (depuis 07/2021);C;3;303
+92022;2025;DPE énergie (depuis 07/2021);D;4;162
+92022;2025;DPE énergie (depuis 07/2021);E;5;75
+92022;2025;DPE énergie (depuis 07/2021);F;6;9
+92022;2025;DPE énergie (depuis 07/2021);G;7;10
+92022;2025;DPE énergie (depuis 07/2021);Non renseigné;8;2
+92022;2025;Financement d'origine;PLAI;1;120
+92022;2025;Financement d'origine;PLUS avant 1977;2;1006
+92022;2025;Financement d'origine;PLUS après 1977;3;487
+92022;2025;Financement d'origine;PLS;4;318
+92022;2025;Financement d'origine;PLI;5;441
+92022;2025;Nombre de pièces;1 pièce;1;304
+92022;2025;Nombre de pièces;2 pièces;2;589
+92022;2025;Nombre de pièces;3 pièces;3;828
+92022;2025;Nombre de pièces;4 pièces;4;540
+92022;2025;Nombre de pièces;5 pièces et +;5;111
+92022;2025;Type de construction;Individuel;1;14
+92022;2025;Type de construction;Collectif;2;2358
+92022;2025;Âge du parc;Moins de 5 ans;1;132
+92022;2025;Âge du parc;5 à 10 ans;2;162
+92022;2025;Âge du parc;10 à 20 ans;3;336
+92022;2025;Âge du parc;20 à 40 ans;4;422
+92022;2025;Âge du parc;40 à 60 ans;5;861
+92022;2025;Âge du parc;Plus de 60 ans;6;459
+92023;2025;DPE énergie (avant 07/2021);A;1;4
+92023;2025;DPE énergie (avant 07/2021);B;2;304
+92023;2025;DPE énergie (avant 07/2021);C;3;236
+92023;2025;DPE énergie (avant 07/2021);D;4;313
+92023;2025;DPE énergie (avant 07/2021);E;5;90
+92023;2025;DPE énergie (avant 07/2021);F;6;23
+92023;2025;DPE énergie (avant 07/2021);G;7;2
+92023;2025;DPE énergie (avant 07/2021);Non renseigné;8;39
+92023;2025;DPE énergie (depuis 07/2021);A;1;54
+92023;2025;DPE énergie (depuis 07/2021);B;2;173
+92023;2025;DPE énergie (depuis 07/2021);C;3;2637
+92023;2025;DPE énergie (depuis 07/2021);D;4;2461
+92023;2025;DPE énergie (depuis 07/2021);E;5;108
+92023;2025;DPE énergie (depuis 07/2021);F;6;81
+92023;2025;DPE énergie (depuis 07/2021);G;7;45
+92023;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92023;2025;Financement d'origine;PLAI;1;535
+92023;2025;Financement d'origine;PLUS avant 1977;2;3885
+92023;2025;Financement d'origine;PLUS après 1977;3;1817
+92023;2025;Financement d'origine;PLS;4;795
+92023;2025;Financement d'origine;PLI;5;223
+92023;2025;Nombre de pièces;1 pièce;1;466
+92023;2025;Nombre de pièces;2 pièces;2;1900
+92023;2025;Nombre de pièces;3 pièces;3;2981
+92023;2025;Nombre de pièces;4 pièces;4;1486
+92023;2025;Nombre de pièces;5 pièces et +;5;422
+92023;2025;Type de construction;Individuel;1;247
+92023;2025;Type de construction;Collectif;2;7008
+92023;2025;Âge du parc;Moins de 5 ans;1;687
+92023;2025;Âge du parc;5 à 10 ans;2;370
+92023;2025;Âge du parc;10 à 20 ans;3;965
+92023;2025;Âge du parc;20 à 40 ans;4;817
+92023;2025;Âge du parc;40 à 60 ans;5;203
+92023;2025;Âge du parc;Plus de 60 ans;6;4213
+92024;2025;DPE énergie (avant 07/2021);A;1;70
+92024;2025;DPE énergie (avant 07/2021);B;2;247
+92024;2025;DPE énergie (avant 07/2021);C;3;3800
+92024;2025;DPE énergie (avant 07/2021);D;4;1333
+92024;2025;DPE énergie (avant 07/2021);E;5;200
+92024;2025;DPE énergie (avant 07/2021);F;6;17
+92024;2025;DPE énergie (avant 07/2021);G;7;39
+92024;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92024;2025;DPE énergie (depuis 07/2021);A;1;16
+92024;2025;DPE énergie (depuis 07/2021);B;2;182
+92024;2025;DPE énergie (depuis 07/2021);C;3;1526
+92024;2025;DPE énergie (depuis 07/2021);D;4;1380
+92024;2025;DPE énergie (depuis 07/2021);E;5;351
+92024;2025;DPE énergie (depuis 07/2021);F;6;107
+92024;2025;DPE énergie (depuis 07/2021);G;7;19
+92024;2025;DPE énergie (depuis 07/2021);Non renseigné;8;19
+92024;2025;Financement d'origine;PLAI;1;757
+92024;2025;Financement d'origine;PLUS avant 1977;2;2702
+92024;2025;Financement d'origine;PLUS après 1977;3;4899
+92024;2025;Financement d'origine;PLS;4;878
+92024;2025;Financement d'origine;PLI;5;728
+92024;2025;Nombre de pièces;1 pièce;1;1470
+92024;2025;Nombre de pièces;2 pièces;2;2614
+92024;2025;Nombre de pièces;3 pièces;3;3540
+92024;2025;Nombre de pièces;4 pièces;4;1982
+92024;2025;Nombre de pièces;5 pièces et +;5;358
+92024;2025;Type de construction;Individuel;1;4
+92024;2025;Type de construction;Collectif;2;9960
+92024;2025;Âge du parc;Moins de 5 ans;1;119
+92024;2025;Âge du parc;5 à 10 ans;2;745
+92024;2025;Âge du parc;10 à 20 ans;3;764
+92024;2025;Âge du parc;20 à 40 ans;4;3943
+92024;2025;Âge du parc;40 à 60 ans;5;2539
+92024;2025;Âge du parc;Plus de 60 ans;6;1854
+92025;2025;DPE énergie (avant 07/2021);A;1;1745
+92025;2025;DPE énergie (avant 07/2021);B;2;1133
+92025;2025;DPE énergie (avant 07/2021);C;3;4997
+92025;2025;DPE énergie (avant 07/2021);D;4;1091
+92025;2025;DPE énergie (avant 07/2021);E;5;539
+92025;2025;DPE énergie (avant 07/2021);F;6;15
+92025;2025;DPE énergie (avant 07/2021);G;7;0
+92025;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92025;2025;DPE énergie (depuis 07/2021);A;1;109
+92025;2025;DPE énergie (depuis 07/2021);B;2;381
+92025;2025;DPE énergie (depuis 07/2021);C;3;940
+92025;2025;DPE énergie (depuis 07/2021);D;4;344
+92025;2025;DPE énergie (depuis 07/2021);E;5;316
+92025;2025;DPE énergie (depuis 07/2021);F;6;1
+92025;2025;DPE énergie (depuis 07/2021);G;7;0
+92025;2025;DPE énergie (depuis 07/2021);Non renseigné;8;305
+92025;2025;Financement d'origine;PLAI;1;165
+92025;2025;Financement d'origine;PLUS avant 1977;2;7407
+92025;2025;Financement d'origine;PLUS après 1977;3;3792
+92025;2025;Financement d'origine;PLS;4;555
+92025;2025;Financement d'origine;PLI;5;211
+92025;2025;Nombre de pièces;1 pièce;1;890
+92025;2025;Nombre de pièces;2 pièces;2;2567
+92025;2025;Nombre de pièces;3 pièces;3;4696
+92025;2025;Nombre de pièces;4 pièces;4;3291
+92025;2025;Nombre de pièces;5 pièces et +;5;686
+92025;2025;Type de construction;Individuel;1;196
+92025;2025;Type de construction;Collectif;2;11934
+92025;2025;Âge du parc;Moins de 5 ans;1;428
+92025;2025;Âge du parc;5 à 10 ans;2;268
+92025;2025;Âge du parc;10 à 20 ans;3;498
+92025;2025;Âge du parc;20 à 40 ans;4;2793
+92025;2025;Âge du parc;40 à 60 ans;5;5980
+92025;2025;Âge du parc;Plus de 60 ans;6;2163
+92026;2025;DPE énergie (avant 07/2021);A;1;6
+92026;2025;DPE énergie (avant 07/2021);B;2;107
+92026;2025;DPE énergie (avant 07/2021);C;3;1857
+92026;2025;DPE énergie (avant 07/2021);D;4;3656
+92026;2025;DPE énergie (avant 07/2021);E;5;724
+92026;2025;DPE énergie (avant 07/2021);F;6;14
+92026;2025;DPE énergie (avant 07/2021);G;7;4
+92026;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92026;2025;DPE énergie (depuis 07/2021);A;1;150
+92026;2025;DPE énergie (depuis 07/2021);B;2;305
+92026;2025;DPE énergie (depuis 07/2021);C;3;1368
+92026;2025;DPE énergie (depuis 07/2021);D;4;884
+92026;2025;DPE énergie (depuis 07/2021);E;5;175
+92026;2025;DPE énergie (depuis 07/2021);F;6;113
+92026;2025;DPE énergie (depuis 07/2021);G;7;29
+92026;2025;DPE énergie (depuis 07/2021);Non renseigné;8;1
+92026;2025;Financement d'origine;PLAI;1;325
+92026;2025;Financement d'origine;PLUS avant 1977;2;3856
+92026;2025;Financement d'origine;PLUS après 1977;3;2647
+92026;2025;Financement d'origine;PLS;4;1586
+92026;2025;Financement d'origine;PLI;5;1926
+92026;2025;Nombre de pièces;1 pièce;1;1638
+92026;2025;Nombre de pièces;2 pièces;2;2517
+92026;2025;Nombre de pièces;3 pièces;3;3585
+92026;2025;Nombre de pièces;4 pièces;4;2120
+92026;2025;Nombre de pièces;5 pièces et +;5;480
+92026;2025;Type de construction;Individuel;1;32
+92026;2025;Type de construction;Collectif;2;10308
+92026;2025;Âge du parc;Moins de 5 ans;1;603
+92026;2025;Âge du parc;5 à 10 ans;2;198
+92026;2025;Âge du parc;10 à 20 ans;3;401
+92026;2025;Âge du parc;20 à 40 ans;4;3787
+92026;2025;Âge du parc;40 à 60 ans;5;3270
+92026;2025;Âge du parc;Plus de 60 ans;6;2081
+92032;2025;DPE énergie (avant 07/2021);A;1;0
+92032;2025;DPE énergie (avant 07/2021);B;2;150
+92032;2025;DPE énergie (avant 07/2021);C;3;177
+92032;2025;DPE énergie (avant 07/2021);D;4;1307
+92032;2025;DPE énergie (avant 07/2021);E;5;76
+92032;2025;DPE énergie (avant 07/2021);F;6;60
+92032;2025;DPE énergie (avant 07/2021);G;7;0
+92032;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92032;2025;DPE énergie (depuis 07/2021);A;1;7
+92032;2025;DPE énergie (depuis 07/2021);B;2;15
+92032;2025;DPE énergie (depuis 07/2021);C;3;923
+92032;2025;DPE énergie (depuis 07/2021);D;4;816
+92032;2025;DPE énergie (depuis 07/2021);E;5;245
+92032;2025;DPE énergie (depuis 07/2021);F;6;52
+92032;2025;DPE énergie (depuis 07/2021);G;7;12
+92032;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92032;2025;Financement d'origine;PLAI;1;143
+92032;2025;Financement d'origine;PLUS avant 1977;2;1992
+92032;2025;Financement d'origine;PLUS après 1977;3;861
+92032;2025;Financement d'origine;PLS;4;1156
+92032;2025;Financement d'origine;PLI;5;72
+92032;2025;Nombre de pièces;1 pièce;1;487
+92032;2025;Nombre de pièces;2 pièces;2;777
+92032;2025;Nombre de pièces;3 pièces;3;1497
+92032;2025;Nombre de pièces;4 pièces;4;1235
+92032;2025;Nombre de pièces;5 pièces et +;5;228
+92032;2025;Type de construction;Individuel;1;13
+92032;2025;Type de construction;Collectif;2;4211
+92032;2025;Âge du parc;Moins de 5 ans;1;66
+92032;2025;Âge du parc;5 à 10 ans;2;9
+92032;2025;Âge du parc;10 à 20 ans;3;530
+92032;2025;Âge du parc;20 à 40 ans;4;294
+92032;2025;Âge du parc;40 à 60 ans;5;879
+92032;2025;Âge du parc;Plus de 60 ans;6;2446
+92033;2025;DPE énergie (avant 07/2021);A;1;0
+92033;2025;DPE énergie (avant 07/2021);B;2;16
+92033;2025;DPE énergie (avant 07/2021);C;3;54
+92033;2025;DPE énergie (avant 07/2021);D;4;182
+92033;2025;DPE énergie (avant 07/2021);E;5;205
+92033;2025;DPE énergie (avant 07/2021);F;6;0
+92033;2025;DPE énergie (avant 07/2021);G;7;0
+92033;2025;DPE énergie (avant 07/2021);Non renseigné;8;21
+92033;2025;DPE énergie (depuis 07/2021);A;1;0
+92033;2025;DPE énergie (depuis 07/2021);B;2;28
+92033;2025;DPE énergie (depuis 07/2021);C;3;771
+92033;2025;DPE énergie (depuis 07/2021);D;4;421
+92033;2025;DPE énergie (depuis 07/2021);E;5;33
+92033;2025;DPE énergie (depuis 07/2021);F;6;8
+92033;2025;DPE énergie (depuis 07/2021);G;7;1
+92033;2025;DPE énergie (depuis 07/2021);Non renseigné;8;11
+92033;2025;Financement d'origine;PLAI;1;84
+92033;2025;Financement d'origine;PLUS avant 1977;2;702
+92033;2025;Financement d'origine;PLUS après 1977;3;522
+92033;2025;Financement d'origine;PLS;4;434
+92033;2025;Financement d'origine;PLI;5;40
+92033;2025;Nombre de pièces;1 pièce;1;291
+92033;2025;Nombre de pièces;2 pièces;2;470
+92033;2025;Nombre de pièces;3 pièces;3;625
+92033;2025;Nombre de pièces;4 pièces;4;321
+92033;2025;Nombre de pièces;5 pièces et +;5;75
+92033;2025;Type de construction;Individuel;1;73
+92033;2025;Type de construction;Collectif;2;1709
+92033;2025;Âge du parc;Moins de 5 ans;1;181
+92033;2025;Âge du parc;5 à 10 ans;2;22
+92033;2025;Âge du parc;10 à 20 ans;3;83
+92033;2025;Âge du parc;20 à 40 ans;4;493
+92033;2025;Âge du parc;40 à 60 ans;5;774
+92033;2025;Âge du parc;Plus de 60 ans;6;229
+92035;2025;DPE énergie (avant 07/2021);A;1;1
+92035;2025;DPE énergie (avant 07/2021);B;2;0
+92035;2025;DPE énergie (avant 07/2021);C;3;270
+92035;2025;DPE énergie (avant 07/2021);D;4;338
+92035;2025;DPE énergie (avant 07/2021);E;5;401
+92035;2025;DPE énergie (avant 07/2021);F;6;61
+92035;2025;DPE énergie (avant 07/2021);G;7;0
+92035;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92035;2025;DPE énergie (depuis 07/2021);A;1;0
+92035;2025;DPE énergie (depuis 07/2021);B;2;36
+92035;2025;DPE énergie (depuis 07/2021);C;3;288
+92035;2025;DPE énergie (depuis 07/2021);D;4;152
+92035;2025;DPE énergie (depuis 07/2021);E;5;222
+92035;2025;DPE énergie (depuis 07/2021);F;6;15
+92035;2025;DPE énergie (depuis 07/2021);G;7;0
+92035;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92035;2025;Financement d'origine;PLAI;1;112
+92035;2025;Financement d'origine;PLUS avant 1977;2;252
+92035;2025;Financement d'origine;PLUS après 1977;3;902
+92035;2025;Financement d'origine;PLS;4;508
+92035;2025;Financement d'origine;PLI;5;218
+92035;2025;Nombre de pièces;1 pièce;1;333
+92035;2025;Nombre de pièces;2 pièces;2;447
+92035;2025;Nombre de pièces;3 pièces;3;722
+92035;2025;Nombre de pièces;4 pièces;4;416
+92035;2025;Nombre de pièces;5 pièces et +;5;74
+92035;2025;Type de construction;Individuel;1;8
+92035;2025;Type de construction;Collectif;2;1984
+92035;2025;Âge du parc;Moins de 5 ans;1;241
+92035;2025;Âge du parc;5 à 10 ans;2;14
+92035;2025;Âge du parc;10 à 20 ans;3;309
+92035;2025;Âge du parc;20 à 40 ans;4;606
+92035;2025;Âge du parc;40 à 60 ans;5;164
+92035;2025;Âge du parc;Plus de 60 ans;6;658
+92036;2025;DPE énergie (avant 07/2021);A;1;113
+92036;2025;DPE énergie (avant 07/2021);B;2;1242
+92036;2025;DPE énergie (avant 07/2021);C;3;3059
+92036;2025;DPE énergie (avant 07/2021);D;4;4501
+92036;2025;DPE énergie (avant 07/2021);E;5;449
+92036;2025;DPE énergie (avant 07/2021);F;6;99
+92036;2025;DPE énergie (avant 07/2021);G;7;17
+92036;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92036;2025;DPE énergie (depuis 07/2021);A;1;0
+92036;2025;DPE énergie (depuis 07/2021);B;2;39
+92036;2025;DPE énergie (depuis 07/2021);C;3;1033
+92036;2025;DPE énergie (depuis 07/2021);D;4;1013
+92036;2025;DPE énergie (depuis 07/2021);E;5;11
+92036;2025;DPE énergie (depuis 07/2021);F;6;103
+92036;2025;DPE énergie (depuis 07/2021);G;7;23
+92036;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92036;2025;Financement d'origine;PLAI;1;589
+92036;2025;Financement d'origine;PLUS avant 1977;2;6545
+92036;2025;Financement d'origine;PLUS après 1977;3;3808
+92036;2025;Financement d'origine;PLS;4;757
+92036;2025;Financement d'origine;PLI;5;148
+92036;2025;Nombre de pièces;1 pièce;1;1358
+92036;2025;Nombre de pièces;2 pièces;2;2606
+92036;2025;Nombre de pièces;3 pièces;3;4249
+92036;2025;Nombre de pièces;4 pièces;4;2937
+92036;2025;Nombre de pièces;5 pièces et +;5;697
+92036;2025;Type de construction;Individuel;1;226
+92036;2025;Type de construction;Collectif;2;11621
+92036;2025;Âge du parc;Moins de 5 ans;1;226
+92036;2025;Âge du parc;5 à 10 ans;2;734
+92036;2025;Âge du parc;10 à 20 ans;3;1502
+92036;2025;Âge du parc;20 à 40 ans;4;1744
+92036;2025;Âge du parc;40 à 60 ans;5;4057
+92036;2025;Âge du parc;Plus de 60 ans;6;3584
+92040;2025;DPE énergie (avant 07/2021);A;1;23
+92040;2025;DPE énergie (avant 07/2021);B;2;116
+92040;2025;DPE énergie (avant 07/2021);C;3;922
+92040;2025;DPE énergie (avant 07/2021);D;4;2050
+92040;2025;DPE énergie (avant 07/2021);E;5;1075
+92040;2025;DPE énergie (avant 07/2021);F;6;91
+92040;2025;DPE énergie (avant 07/2021);G;7;94
+92040;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92040;2025;DPE énergie (depuis 07/2021);A;1;0
+92040;2025;DPE énergie (depuis 07/2021);B;2;246
+92040;2025;DPE énergie (depuis 07/2021);C;3;707
+92040;2025;DPE énergie (depuis 07/2021);D;4;522
+92040;2025;DPE énergie (depuis 07/2021);E;5;184
+92040;2025;DPE énergie (depuis 07/2021);F;6;33
+92040;2025;DPE énergie (depuis 07/2021);G;7;12
+92040;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92040;2025;Financement d'origine;PLAI;1;554
+92040;2025;Financement d'origine;PLUS avant 1977;2;1987
+92040;2025;Financement d'origine;PLUS après 1977;3;3605
+92040;2025;Financement d'origine;PLS;4;1016
+92040;2025;Financement d'origine;PLI;5;453
+92040;2025;Nombre de pièces;1 pièce;1;616
+92040;2025;Nombre de pièces;2 pièces;2;2365
+92040;2025;Nombre de pièces;3 pièces;3;2709
+92040;2025;Nombre de pièces;4 pièces;4;1541
+92040;2025;Nombre de pièces;5 pièces et +;5;384
+92040;2025;Type de construction;Individuel;1;0
+92040;2025;Type de construction;Collectif;2;7615
+92040;2025;Âge du parc;Moins de 5 ans;1;563
+92040;2025;Âge du parc;5 à 10 ans;2;191
+92040;2025;Âge du parc;10 à 20 ans;3;617
+92040;2025;Âge du parc;20 à 40 ans;4;2579
+92040;2025;Âge du parc;40 à 60 ans;5;1601
+92040;2025;Âge du parc;Plus de 60 ans;6;2064
+92044;2025;DPE énergie (avant 07/2021);A;1;6
+92044;2025;DPE énergie (avant 07/2021);B;2;119
+92044;2025;DPE énergie (avant 07/2021);C;3;1411
+92044;2025;DPE énergie (avant 07/2021);D;4;561
+92044;2025;DPE énergie (avant 07/2021);E;5;369
+92044;2025;DPE énergie (avant 07/2021);F;6;25
+92044;2025;DPE énergie (avant 07/2021);G;7;10
+92044;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92044;2025;DPE énergie (depuis 07/2021);A;1;11
+92044;2025;DPE énergie (depuis 07/2021);B;2;70
+92044;2025;DPE énergie (depuis 07/2021);C;3;828
+92044;2025;DPE énergie (depuis 07/2021);D;4;1645
+92044;2025;DPE énergie (depuis 07/2021);E;5;637
+92044;2025;DPE énergie (depuis 07/2021);F;6;88
+92044;2025;DPE énergie (depuis 07/2021);G;7;23
+92044;2025;DPE énergie (depuis 07/2021);Non renseigné;8;124
+92044;2025;Financement d'origine;PLAI;1;249
+92044;2025;Financement d'origine;PLUS avant 1977;2;2996
+92044;2025;Financement d'origine;PLUS après 1977;3;1781
+92044;2025;Financement d'origine;PLS;4;930
+92044;2025;Financement d'origine;PLI;5;358
+92044;2025;Nombre de pièces;1 pièce;1;565
+92044;2025;Nombre de pièces;2 pièces;2;1651
+92044;2025;Nombre de pièces;3 pièces;3;2206
+92044;2025;Nombre de pièces;4 pièces;4;1620
+92044;2025;Nombre de pièces;5 pièces et +;5;272
+92044;2025;Type de construction;Individuel;1;3
+92044;2025;Type de construction;Collectif;2;6311
+92044;2025;Âge du parc;Moins de 5 ans;1;62
+92044;2025;Âge du parc;5 à 10 ans;2;452
+92044;2025;Âge du parc;10 à 20 ans;3;605
+92044;2025;Âge du parc;20 à 40 ans;4;1402
+92044;2025;Âge du parc;40 à 60 ans;5;2895
+92044;2025;Âge du parc;Plus de 60 ans;6;898
+92046;2025;DPE énergie (avant 07/2021);A;1;0
+92046;2025;DPE énergie (avant 07/2021);B;2;272
+92046;2025;DPE énergie (avant 07/2021);C;3;29
+92046;2025;DPE énergie (avant 07/2021);D;4;510
+92046;2025;DPE énergie (avant 07/2021);E;5;19
+92046;2025;DPE énergie (avant 07/2021);F;6;0
+92046;2025;DPE énergie (avant 07/2021);G;7;96
+92046;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92046;2025;DPE énergie (depuis 07/2021);A;1;144
+92046;2025;DPE énergie (depuis 07/2021);B;2;167
+92046;2025;DPE énergie (depuis 07/2021);C;3;1498
+92046;2025;DPE énergie (depuis 07/2021);D;4;2094
+92046;2025;DPE énergie (depuis 07/2021);E;5;909
+92046;2025;DPE énergie (depuis 07/2021);F;6;201
+92046;2025;DPE énergie (depuis 07/2021);G;7;0
+92046;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92046;2025;Financement d'origine;PLAI;1;101
+92046;2025;Financement d'origine;PLUS avant 1977;2;4262
+92046;2025;Financement d'origine;PLUS après 1977;3;936
+92046;2025;Financement d'origine;PLS;4;370
+92046;2025;Financement d'origine;PLI;5;314
+92046;2025;Nombre de pièces;1 pièce;1;637
+92046;2025;Nombre de pièces;2 pièces;2;1815
+92046;2025;Nombre de pièces;3 pièces;3;2257
+92046;2025;Nombre de pièces;4 pièces;4;1115
+92046;2025;Nombre de pièces;5 pièces et +;5;159
+92046;2025;Type de construction;Individuel;1;23
+92046;2025;Type de construction;Collectif;2;5960
+92046;2025;Âge du parc;Moins de 5 ans;1;161
+92046;2025;Âge du parc;5 à 10 ans;2;205
+92046;2025;Âge du parc;10 à 20 ans;3;191
+92046;2025;Âge du parc;20 à 40 ans;4;556
+92046;2025;Âge du parc;40 à 60 ans;5;2099
+92046;2025;Âge du parc;Plus de 60 ans;6;2771
+92047;2025;DPE énergie (avant 07/2021);A;1;0
+92047;2025;DPE énergie (avant 07/2021);B;2;25
+92047;2025;DPE énergie (avant 07/2021);C;3;0
+92047;2025;DPE énergie (avant 07/2021);D;4;0
+92047;2025;DPE énergie (avant 07/2021);E;5;0
+92047;2025;DPE énergie (avant 07/2021);F;6;0
+92047;2025;DPE énergie (avant 07/2021);G;7;0
+92047;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92047;2025;DPE énergie (depuis 07/2021);A;1;0
+92047;2025;DPE énergie (depuis 07/2021);B;2;16
+92047;2025;DPE énergie (depuis 07/2021);C;3;41
+92047;2025;DPE énergie (depuis 07/2021);D;4;20
+92047;2025;DPE énergie (depuis 07/2021);E;5;6
+92047;2025;DPE énergie (depuis 07/2021);F;6;3
+92047;2025;DPE énergie (depuis 07/2021);G;7;0
+92047;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92047;2025;Financement d'origine;PLAI;1;22
+92047;2025;Financement d'origine;PLUS avant 1977;2;20
+92047;2025;Financement d'origine;PLUS après 1977;3;50
+92047;2025;Financement d'origine;PLS;4;38
+92047;2025;Financement d'origine;PLI;5;13
+92047;2025;Nombre de pièces;1 pièce;1;28
+92047;2025;Nombre de pièces;2 pièces;2;35
+92047;2025;Nombre de pièces;3 pièces;3;43
+92047;2025;Nombre de pièces;4 pièces;4;32
+92047;2025;Nombre de pièces;5 pièces et +;5;5
+92047;2025;Type de construction;Individuel;1;8
+92047;2025;Type de construction;Collectif;2;135
+92047;2025;Âge du parc;Moins de 5 ans;1;22
+92047;2025;Âge du parc;5 à 10 ans;2;25
+92047;2025;Âge du parc;10 à 20 ans;3;44
+92047;2025;Âge du parc;20 à 40 ans;4;23
+92047;2025;Âge du parc;40 à 60 ans;5;0
+92047;2025;Âge du parc;Plus de 60 ans;6;29
+92048;2025;DPE énergie (avant 07/2021);A;1;111
+92048;2025;DPE énergie (avant 07/2021);B;2;58
+92048;2025;DPE énergie (avant 07/2021);C;3;539
+92048;2025;DPE énergie (avant 07/2021);D;4;1860
+92048;2025;DPE énergie (avant 07/2021);E;5;494
+92048;2025;DPE énergie (avant 07/2021);F;6;67
+92048;2025;DPE énergie (avant 07/2021);G;7;24
+92048;2025;DPE énergie (avant 07/2021);Non renseigné;8;41
+92048;2025;DPE énergie (depuis 07/2021);A;1;0
+92048;2025;DPE énergie (depuis 07/2021);B;2;13
+92048;2025;DPE énergie (depuis 07/2021);C;3;292
+92048;2025;DPE énergie (depuis 07/2021);D;4;209
+92048;2025;DPE énergie (depuis 07/2021);E;5;78
+92048;2025;DPE énergie (depuis 07/2021);F;6;45
+92048;2025;DPE énergie (depuis 07/2021);G;7;13
+92048;2025;DPE énergie (depuis 07/2021);Non renseigné;8;2
+92048;2025;Financement d'origine;PLAI;1;79
+92048;2025;Financement d'origine;PLUS avant 1977;2;3785
+92048;2025;Financement d'origine;PLUS après 1977;3;745
+92048;2025;Financement d'origine;PLS;4;683
+92048;2025;Financement d'origine;PLI;5;127
+92048;2025;Nombre de pièces;1 pièce;1;477
+92048;2025;Nombre de pièces;2 pièces;2;1014
+92048;2025;Nombre de pièces;3 pièces;3;1979
+92048;2025;Nombre de pièces;4 pièces;4;1712
+92048;2025;Nombre de pièces;5 pièces et +;5;237
+92048;2025;Type de construction;Individuel;1;13
+92048;2025;Type de construction;Collectif;2;5406
+92048;2025;Âge du parc;Moins de 5 ans;1;420
+92048;2025;Âge du parc;5 à 10 ans;2;39
+92048;2025;Âge du parc;10 à 20 ans;3;240
+92048;2025;Âge du parc;20 à 40 ans;4;360
+92048;2025;Âge du parc;40 à 60 ans;5;1057
+92048;2025;Âge du parc;Plus de 60 ans;6;3303
+92049;2025;DPE énergie (avant 07/2021);A;1;0
+92049;2025;DPE énergie (avant 07/2021);B;2;44
+92049;2025;DPE énergie (avant 07/2021);C;3;226
+92049;2025;DPE énergie (avant 07/2021);D;4;51
+92049;2025;DPE énergie (avant 07/2021);E;5;38
+92049;2025;DPE énergie (avant 07/2021);F;6;71
+92049;2025;DPE énergie (avant 07/2021);G;7;0
+92049;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92049;2025;DPE énergie (depuis 07/2021);A;1;58
+92049;2025;DPE énergie (depuis 07/2021);B;2;63
+92049;2025;DPE énergie (depuis 07/2021);C;3;662
+92049;2025;DPE énergie (depuis 07/2021);D;4;812
+92049;2025;DPE énergie (depuis 07/2021);E;5;264
+92049;2025;DPE énergie (depuis 07/2021);F;6;39
+92049;2025;DPE énergie (depuis 07/2021);G;7;18
+92049;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92049;2025;Financement d'origine;PLAI;1;161
+92049;2025;Financement d'origine;PLUS avant 1977;2;2338
+92049;2025;Financement d'origine;PLUS après 1977;3;1057
+92049;2025;Financement d'origine;PLS;4;355
+92049;2025;Financement d'origine;PLI;5;374
+92049;2025;Nombre de pièces;1 pièce;1;544
+92049;2025;Nombre de pièces;2 pièces;2;1293
+92049;2025;Nombre de pièces;3 pièces;3;1666
+92049;2025;Nombre de pièces;4 pièces;4;660
+92049;2025;Nombre de pièces;5 pièces et +;5;122
+92049;2025;Type de construction;Individuel;1;1
+92049;2025;Type de construction;Collectif;2;4284
+92049;2025;Âge du parc;Moins de 5 ans;1;169
+92049;2025;Âge du parc;5 à 10 ans;2;98
+92049;2025;Âge du parc;10 à 20 ans;3;148
+92049;2025;Âge du parc;20 à 40 ans;4;1214
+92049;2025;Âge du parc;40 à 60 ans;5;740
+92049;2025;Âge du parc;Plus de 60 ans;6;1916
+92050;2025;DPE énergie (avant 07/2021);A;1;399
+92050;2025;DPE énergie (avant 07/2021);B;2;3003
+92050;2025;DPE énergie (avant 07/2021);C;3;4218
+92050;2025;DPE énergie (avant 07/2021);D;4;2477
+92050;2025;DPE énergie (avant 07/2021);E;5;712
+92050;2025;DPE énergie (avant 07/2021);F;6;137
+92050;2025;DPE énergie (avant 07/2021);G;7;1
+92050;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92050;2025;DPE énergie (depuis 07/2021);A;1;40
+92050;2025;DPE énergie (depuis 07/2021);B;2;226
+92050;2025;DPE énergie (depuis 07/2021);C;3;6408
+92050;2025;DPE énergie (depuis 07/2021);D;4;1833
+92050;2025;DPE énergie (depuis 07/2021);E;5;203
+92050;2025;DPE énergie (depuis 07/2021);F;6;246
+92050;2025;DPE énergie (depuis 07/2021);G;7;11
+92050;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92050;2025;Financement d'origine;PLAI;1;638
+92050;2025;Financement d'origine;PLUS avant 1977;2;12400
+92050;2025;Financement d'origine;PLUS après 1977;3;6844
+92050;2025;Financement d'origine;PLS;4;618
+92050;2025;Financement d'origine;PLI;5;690
+92050;2025;Nombre de pièces;1 pièce;1;2002
+92050;2025;Nombre de pièces;2 pièces;2;4893
+92050;2025;Nombre de pièces;3 pièces;3;8082
+92050;2025;Nombre de pièces;4 pièces;4;4909
+92050;2025;Nombre de pièces;5 pièces et +;5;1304
+92050;2025;Type de construction;Individuel;1;272
+92050;2025;Type de construction;Collectif;2;20918
+92050;2025;Âge du parc;Moins de 5 ans;1;570
+92050;2025;Âge du parc;5 à 10 ans;2;1036
+92050;2025;Âge du parc;10 à 20 ans;3;2254
+92050;2025;Âge du parc;20 à 40 ans;4;3382
+92050;2025;Âge du parc;40 à 60 ans;5;8702
+92050;2025;Âge du parc;Plus de 60 ans;6;5246
+92051;2025;DPE énergie (avant 07/2021);A;1;1
+92051;2025;DPE énergie (avant 07/2021);B;2;145
+92051;2025;DPE énergie (avant 07/2021);C;3;257
+92051;2025;DPE énergie (avant 07/2021);D;4;109
+92051;2025;DPE énergie (avant 07/2021);E;5;59
+92051;2025;DPE énergie (avant 07/2021);F;6;0
+92051;2025;DPE énergie (avant 07/2021);G;7;0
+92051;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92051;2025;DPE énergie (depuis 07/2021);A;1;0
+92051;2025;DPE énergie (depuis 07/2021);B;2;2
+92051;2025;DPE énergie (depuis 07/2021);C;3;489
+92051;2025;DPE énergie (depuis 07/2021);D;4;147
+92051;2025;DPE énergie (depuis 07/2021);E;5;98
+92051;2025;DPE énergie (depuis 07/2021);F;6;31
+92051;2025;DPE énergie (depuis 07/2021);G;7;15
+92051;2025;DPE énergie (depuis 07/2021);Non renseigné;8;1
+92051;2025;Financement d'origine;PLAI;1;164
+92051;2025;Financement d'origine;PLUS avant 1977;2;253
+92051;2025;Financement d'origine;PLUS après 1977;3;605
+92051;2025;Financement d'origine;PLS;4;406
+92051;2025;Financement d'origine;PLI;5;1
+92051;2025;Nombre de pièces;1 pièce;1;300
+92051;2025;Nombre de pièces;2 pièces;2;431
+92051;2025;Nombre de pièces;3 pièces;3;448
+92051;2025;Nombre de pièces;4 pièces;4;193
+92051;2025;Nombre de pièces;5 pièces et +;5;57
+92051;2025;Type de construction;Individuel;1;26
+92051;2025;Type de construction;Collectif;2;1403
+92051;2025;Âge du parc;Moins de 5 ans;1;175
+92051;2025;Âge du parc;5 à 10 ans;2;82
+92051;2025;Âge du parc;10 à 20 ans;3;195
+92051;2025;Âge du parc;20 à 40 ans;4;229
+92051;2025;Âge du parc;40 à 60 ans;5;308
+92051;2025;Âge du parc;Plus de 60 ans;6;440
+92060;2025;DPE énergie (avant 07/2021);A;1;0
+92060;2025;DPE énergie (avant 07/2021);B;2;5
+92060;2025;DPE énergie (avant 07/2021);C;3;724
+92060;2025;DPE énergie (avant 07/2021);D;4;1767
+92060;2025;DPE énergie (avant 07/2021);E;5;1195
+92060;2025;DPE énergie (avant 07/2021);F;6;6
+92060;2025;DPE énergie (avant 07/2021);G;7;0
+92060;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92060;2025;DPE énergie (depuis 07/2021);A;1;0
+92060;2025;DPE énergie (depuis 07/2021);B;2;17
+92060;2025;DPE énergie (depuis 07/2021);C;3;72
+92060;2025;DPE énergie (depuis 07/2021);D;4;51
+92060;2025;DPE énergie (depuis 07/2021);E;5;1
+92060;2025;DPE énergie (depuis 07/2021);F;6;2
+92060;2025;DPE énergie (depuis 07/2021);G;7;1
+92060;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92060;2025;Financement d'origine;PLAI;1;26
+92060;2025;Financement d'origine;PLUS avant 1977;2;2540
+92060;2025;Financement d'origine;PLUS après 1977;3;1203
+92060;2025;Financement d'origine;PLS;4;37
+92060;2025;Financement d'origine;PLI;5;110
+92060;2025;Nombre de pièces;1 pièce;1;215
+92060;2025;Nombre de pièces;2 pièces;2;807
+92060;2025;Nombre de pièces;3 pièces;3;1585
+92060;2025;Nombre de pièces;4 pièces;4;1099
+92060;2025;Nombre de pièces;5 pièces et +;5;210
+92060;2025;Type de construction;Individuel;1;60
+92060;2025;Type de construction;Collectif;2;3856
+92060;2025;Âge du parc;Moins de 5 ans;1;74
+92060;2025;Âge du parc;5 à 10 ans;2;98
+92060;2025;Âge du parc;10 à 20 ans;3;225
+92060;2025;Âge du parc;20 à 40 ans;4;913
+92060;2025;Âge du parc;40 à 60 ans;5;256
+92060;2025;Âge du parc;Plus de 60 ans;6;2350
+92062;2025;DPE énergie (avant 07/2021);A;1;347
+92062;2025;DPE énergie (avant 07/2021);B;2;14
+92062;2025;DPE énergie (avant 07/2021);C;3;381
+92062;2025;DPE énergie (avant 07/2021);D;4;490
+92062;2025;DPE énergie (avant 07/2021);E;5;582
+92062;2025;DPE énergie (avant 07/2021);F;6;187
+92062;2025;DPE énergie (avant 07/2021);G;7;69
+92062;2025;DPE énergie (avant 07/2021);Non renseigné;8;72
+92062;2025;DPE énergie (depuis 07/2021);A;1;3
+92062;2025;DPE énergie (depuis 07/2021);B;2;109
+92062;2025;DPE énergie (depuis 07/2021);C;3;1157
+92062;2025;DPE énergie (depuis 07/2021);D;4;1221
+92062;2025;DPE énergie (depuis 07/2021);E;5;490
+92062;2025;DPE énergie (depuis 07/2021);F;6;737
+92062;2025;DPE énergie (depuis 07/2021);G;7;102
+92062;2025;DPE énergie (depuis 07/2021);Non renseigné;8;10
+92062;2025;Financement d'origine;PLAI;1;49
+92062;2025;Financement d'origine;PLUS avant 1977;2;4211
+92062;2025;Financement d'origine;PLUS après 1977;3;1603
+92062;2025;Financement d'origine;PLS;4;355
+92062;2025;Financement d'origine;PLI;5;446
+92062;2025;Nombre de pièces;1 pièce;1;305
+92062;2025;Nombre de pièces;2 pièces;2;1823
+92062;2025;Nombre de pièces;3 pièces;3;2451
+92062;2025;Nombre de pièces;4 pièces;4;1441
+92062;2025;Nombre de pièces;5 pièces et +;5;644
+92062;2025;Type de construction;Individuel;1;0
+92062;2025;Type de construction;Collectif;2;6664
+92062;2025;Âge du parc;Moins de 5 ans;1;171
+92062;2025;Âge du parc;5 à 10 ans;2;32
+92062;2025;Âge du parc;10 à 20 ans;3;84
+92062;2025;Âge du parc;20 à 40 ans;4;1377
+92062;2025;Âge du parc;40 à 60 ans;5;1647
+92062;2025;Âge du parc;Plus de 60 ans;6;3353
+92063;2025;DPE énergie (avant 07/2021);A;1;2
+92063;2025;DPE énergie (avant 07/2021);B;2;191
+92063;2025;DPE énergie (avant 07/2021);C;3;551
+92063;2025;DPE énergie (avant 07/2021);D;4;2354
+92063;2025;DPE énergie (avant 07/2021);E;5;553
+92063;2025;DPE énergie (avant 07/2021);F;6;380
+92063;2025;DPE énergie (avant 07/2021);G;7;2
+92063;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92063;2025;DPE énergie (depuis 07/2021);A;1;277
+92063;2025;DPE énergie (depuis 07/2021);B;2;343
+92063;2025;DPE énergie (depuis 07/2021);C;3;1331
+92063;2025;DPE énergie (depuis 07/2021);D;4;1012
+92063;2025;DPE énergie (depuis 07/2021);E;5;671
+92063;2025;DPE énergie (depuis 07/2021);F;6;24
+92063;2025;DPE énergie (depuis 07/2021);G;7;11
+92063;2025;DPE énergie (depuis 07/2021);Non renseigné;8;54
+92063;2025;Financement d'origine;PLAI;1;394
+92063;2025;Financement d'origine;PLUS avant 1977;2;3495
+92063;2025;Financement d'origine;PLUS après 1977;3;2627
+92063;2025;Financement d'origine;PLS;4;1648
+92063;2025;Financement d'origine;PLI;5;612
+92063;2025;Nombre de pièces;1 pièce;1;572
+92063;2025;Nombre de pièces;2 pièces;2;2281
+92063;2025;Nombre de pièces;3 pièces;3;3636
+92063;2025;Nombre de pièces;4 pièces;4;1946
+92063;2025;Nombre de pièces;5 pièces et +;5;341
+92063;2025;Type de construction;Individuel;1;29
+92063;2025;Type de construction;Collectif;2;8747
+92063;2025;Âge du parc;Moins de 5 ans;1;902
+92063;2025;Âge du parc;5 à 10 ans;2;255
+92063;2025;Âge du parc;10 à 20 ans;3;411
+92063;2025;Âge du parc;20 à 40 ans;4;2123
+92063;2025;Âge du parc;40 à 60 ans;5;2611
+92063;2025;Âge du parc;Plus de 60 ans;6;2474
+92064;2025;DPE énergie (avant 07/2021);A;1;43
+92064;2025;DPE énergie (avant 07/2021);B;2;64
+92064;2025;DPE énergie (avant 07/2021);C;3;605
+92064;2025;DPE énergie (avant 07/2021);D;4;225
+92064;2025;DPE énergie (avant 07/2021);E;5;169
+92064;2025;DPE énergie (avant 07/2021);F;6;24
+92064;2025;DPE énergie (avant 07/2021);G;7;0
+92064;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92064;2025;DPE énergie (depuis 07/2021);A;1;0
+92064;2025;DPE énergie (depuis 07/2021);B;2;5
+92064;2025;DPE énergie (depuis 07/2021);C;3;460
+92064;2025;DPE énergie (depuis 07/2021);D;4;373
+92064;2025;DPE énergie (depuis 07/2021);E;5;107
+92064;2025;DPE énergie (depuis 07/2021);F;6;54
+92064;2025;DPE énergie (depuis 07/2021);G;7;24
+92064;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92064;2025;Financement d'origine;PLAI;1;106
+92064;2025;Financement d'origine;PLUS avant 1977;2;812
+92064;2025;Financement d'origine;PLUS après 1977;3;541
+92064;2025;Financement d'origine;PLS;4;452
+92064;2025;Financement d'origine;PLI;5;304
+92064;2025;Nombre de pièces;1 pièce;1;447
+92064;2025;Nombre de pièces;2 pièces;2;511
+92064;2025;Nombre de pièces;3 pièces;3;694
+92064;2025;Nombre de pièces;4 pièces;4;358
+92064;2025;Nombre de pièces;5 pièces et +;5;205
+92064;2025;Type de construction;Individuel;1;32
+92064;2025;Type de construction;Collectif;2;2183
+92064;2025;Âge du parc;Moins de 5 ans;1;88
+92064;2025;Âge du parc;5 à 10 ans;2;81
+92064;2025;Âge du parc;10 à 20 ans;3;264
+92064;2025;Âge du parc;20 à 40 ans;4;247
+92064;2025;Âge du parc;40 à 60 ans;5;1116
+92064;2025;Âge du parc;Plus de 60 ans;6;419
+92071;2025;DPE énergie (avant 07/2021);A;1;61
+92071;2025;DPE énergie (avant 07/2021);B;2;178
+92071;2025;DPE énergie (avant 07/2021);C;3;250
+92071;2025;DPE énergie (avant 07/2021);D;4;1108
+92071;2025;DPE énergie (avant 07/2021);E;5;237
+92071;2025;DPE énergie (avant 07/2021);F;6;11
+92071;2025;DPE énergie (avant 07/2021);G;7;25
+92071;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92071;2025;DPE énergie (depuis 07/2021);A;1;88
+92071;2025;DPE énergie (depuis 07/2021);B;2;2
+92071;2025;DPE énergie (depuis 07/2021);C;3;0
+92071;2025;DPE énergie (depuis 07/2021);D;4;27
+92071;2025;DPE énergie (depuis 07/2021);E;5;0
+92071;2025;DPE énergie (depuis 07/2021);F;6;0
+92071;2025;DPE énergie (depuis 07/2021);G;7;0
+92071;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92071;2025;Financement d'origine;PLAI;1;86
+92071;2025;Financement d'origine;PLUS avant 1977;2;1350
+92071;2025;Financement d'origine;PLUS après 1977;3;480
+92071;2025;Financement d'origine;PLS;4;338
+92071;2025;Financement d'origine;PLI;5;74
+92071;2025;Nombre de pièces;1 pièce;1;489
+92071;2025;Nombre de pièces;2 pièces;2;436
+92071;2025;Nombre de pièces;3 pièces;3;792
+92071;2025;Nombre de pièces;4 pièces;4;508
+92071;2025;Nombre de pièces;5 pièces et +;5;103
+92071;2025;Type de construction;Individuel;1;84
+92071;2025;Type de construction;Collectif;2;2244
+92071;2025;Âge du parc;Moins de 5 ans;1;102
+92071;2025;Âge du parc;5 à 10 ans;2;354
+92071;2025;Âge du parc;10 à 20 ans;3;121
+92071;2025;Âge du parc;20 à 40 ans;4;358
+92071;2025;Âge du parc;40 à 60 ans;5;280
+92071;2025;Âge du parc;Plus de 60 ans;6;1113
+92072;2025;DPE énergie (avant 07/2021);A;1;0
+92072;2025;DPE énergie (avant 07/2021);B;2;22
+92072;2025;DPE énergie (avant 07/2021);C;3;121
+92072;2025;DPE énergie (avant 07/2021);D;4;503
+92072;2025;DPE énergie (avant 07/2021);E;5;164
+92072;2025;DPE énergie (avant 07/2021);F;6;3
+92072;2025;DPE énergie (avant 07/2021);G;7;0
+92072;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92072;2025;DPE énergie (depuis 07/2021);A;1;2
+92072;2025;DPE énergie (depuis 07/2021);B;2;6
+92072;2025;DPE énergie (depuis 07/2021);C;3;531
+92072;2025;DPE énergie (depuis 07/2021);D;4;873
+92072;2025;DPE énergie (depuis 07/2021);E;5;127
+92072;2025;DPE énergie (depuis 07/2021);F;6;11
+92072;2025;DPE énergie (depuis 07/2021);G;7;13
+92072;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92072;2025;Financement d'origine;PLAI;1;42
+92072;2025;Financement d'origine;PLUS avant 1977;2;1295
+92072;2025;Financement d'origine;PLUS après 1977;3;763
+92072;2025;Financement d'origine;PLS;4;111
+92072;2025;Financement d'origine;PLI;5;245
+92072;2025;Nombre de pièces;1 pièce;1;213
+92072;2025;Nombre de pièces;2 pièces;2;715
+92072;2025;Nombre de pièces;3 pièces;3;821
+92072;2025;Nombre de pièces;4 pièces;4;525
+92072;2025;Nombre de pièces;5 pièces et +;5;182
+92072;2025;Type de construction;Individuel;1;0
+92072;2025;Type de construction;Collectif;2;2456
+92072;2025;Âge du parc;Moins de 5 ans;1;76
+92072;2025;Âge du parc;5 à 10 ans;2;23
+92072;2025;Âge du parc;10 à 20 ans;3;49
+92072;2025;Âge du parc;20 à 40 ans;4;563
+92072;2025;Âge du parc;40 à 60 ans;5;1020
+92072;2025;Âge du parc;Plus de 60 ans;6;725
+92073;2025;DPE énergie (avant 07/2021);A;1;6
+92073;2025;DPE énergie (avant 07/2021);B;2;317
+92073;2025;DPE énergie (avant 07/2021);C;3;751
+92073;2025;DPE énergie (avant 07/2021);D;4;785
+92073;2025;DPE énergie (avant 07/2021);E;5;3446
+92073;2025;DPE énergie (avant 07/2021);F;6;396
+92073;2025;DPE énergie (avant 07/2021);G;7;2
+92073;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92073;2025;DPE énergie (depuis 07/2021);A;1;0
+92073;2025;DPE énergie (depuis 07/2021);B;2;117
+92073;2025;DPE énergie (depuis 07/2021);C;3;618
+92073;2025;DPE énergie (depuis 07/2021);D;4;442
+92073;2025;DPE énergie (depuis 07/2021);E;5;575
+92073;2025;DPE énergie (depuis 07/2021);F;6;240
+92073;2025;DPE énergie (depuis 07/2021);G;7;72
+92073;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92073;2025;Financement d'origine;PLAI;1;102
+92073;2025;Financement d'origine;PLUS avant 1977;2;5179
+92073;2025;Financement d'origine;PLUS après 1977;3;932
+92073;2025;Financement d'origine;PLS;4;1015
+92073;2025;Financement d'origine;PLI;5;686
+92073;2025;Nombre de pièces;1 pièce;1;975
+92073;2025;Nombre de pièces;2 pièces;2;1934
+92073;2025;Nombre de pièces;3 pièces;3;3286
+92073;2025;Nombre de pièces;4 pièces;4;1373
+92073;2025;Nombre de pièces;5 pièces et +;5;346
+92073;2025;Type de construction;Individuel;1;54
+92073;2025;Type de construction;Collectif;2;7860
+92073;2025;Âge du parc;Moins de 5 ans;1;423
+92073;2025;Âge du parc;5 à 10 ans;2;272
+92073;2025;Âge du parc;10 à 20 ans;3;398
+92073;2025;Âge du parc;20 à 40 ans;4;1073
+92073;2025;Âge du parc;40 à 60 ans;5;1941
+92073;2025;Âge du parc;Plus de 60 ans;6;3807
+92075;2025;DPE énergie (avant 07/2021);A;1;1
+92075;2025;DPE énergie (avant 07/2021);B;2;1
+92075;2025;DPE énergie (avant 07/2021);C;3;506
+92075;2025;DPE énergie (avant 07/2021);D;4;803
+92075;2025;DPE énergie (avant 07/2021);E;5;436
+92075;2025;DPE énergie (avant 07/2021);F;6;0
+92075;2025;DPE énergie (avant 07/2021);G;7;0
+92075;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92075;2025;DPE énergie (depuis 07/2021);A;1;0
+92075;2025;DPE énergie (depuis 07/2021);B;2;30
+92075;2025;DPE énergie (depuis 07/2021);C;3;926
+92075;2025;DPE énergie (depuis 07/2021);D;4;289
+92075;2025;DPE énergie (depuis 07/2021);E;5;74
+92075;2025;DPE énergie (depuis 07/2021);F;6;12
+92075;2025;DPE énergie (depuis 07/2021);G;7;2
+92075;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92075;2025;Financement d'origine;PLAI;1;37
+92075;2025;Financement d'origine;PLUS avant 1977;2;1256
+92075;2025;Financement d'origine;PLUS après 1977;3;1529
+92075;2025;Financement d'origine;PLS;4;365
+92075;2025;Financement d'origine;PLI;5;31
+92075;2025;Nombre de pièces;1 pièce;1;530
+92075;2025;Nombre de pièces;2 pièces;2;846
+92075;2025;Nombre de pièces;3 pièces;3;1043
+92075;2025;Nombre de pièces;4 pièces;4;646
+92075;2025;Nombre de pièces;5 pièces et +;5;153
+92075;2025;Type de construction;Individuel;1;6
+92075;2025;Type de construction;Collectif;2;3212
+92075;2025;Âge du parc;Moins de 5 ans;1;34
+92075;2025;Âge du parc;5 à 10 ans;2;180
+92075;2025;Âge du parc;10 à 20 ans;3;58
+92075;2025;Âge du parc;20 à 40 ans;4;614
+92075;2025;Âge du parc;40 à 60 ans;5;1436
+92075;2025;Âge du parc;Plus de 60 ans;6;896
+92076;2025;DPE énergie (avant 07/2021);A;1;0
+92076;2025;DPE énergie (avant 07/2021);B;2;0
+92076;2025;DPE énergie (avant 07/2021);C;3;93
+92076;2025;DPE énergie (avant 07/2021);D;4;2
+92076;2025;DPE énergie (avant 07/2021);E;5;9
+92076;2025;DPE énergie (avant 07/2021);F;6;0
+92076;2025;DPE énergie (avant 07/2021);G;7;0
+92076;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92076;2025;DPE énergie (depuis 07/2021);A;1;0
+92076;2025;DPE énergie (depuis 07/2021);B;2;0
+92076;2025;DPE énergie (depuis 07/2021);C;3;121
+92076;2025;DPE énergie (depuis 07/2021);D;4;17
+92076;2025;DPE énergie (depuis 07/2021);E;5;82
+92076;2025;DPE énergie (depuis 07/2021);F;6;24
+92076;2025;DPE énergie (depuis 07/2021);G;7;9
+92076;2025;DPE énergie (depuis 07/2021);Non renseigné;8;2
+92076;2025;Financement d'origine;PLAI;1;42
+92076;2025;Financement d'origine;PLUS avant 1977;2;67
+92076;2025;Financement d'origine;PLUS après 1977;3;94
+92076;2025;Financement d'origine;PLS;4;129
+92076;2025;Financement d'origine;PLI;5;71
+92076;2025;Nombre de pièces;1 pièce;1;151
+92076;2025;Nombre de pièces;2 pièces;2;97
+92076;2025;Nombre de pièces;3 pièces;3;91
+92076;2025;Nombre de pièces;4 pièces;4;54
+92076;2025;Nombre de pièces;5 pièces et +;5;10
+92076;2025;Type de construction;Individuel;1;1
+92076;2025;Type de construction;Collectif;2;402
+92076;2025;Âge du parc;Moins de 5 ans;1;58
+92076;2025;Âge du parc;5 à 10 ans;2;5
+92076;2025;Âge du parc;10 à 20 ans;3;124
+92076;2025;Âge du parc;20 à 40 ans;4;54
+92076;2025;Âge du parc;40 à 60 ans;5;56
+92076;2025;Âge du parc;Plus de 60 ans;6;106
+92077;2025;DPE énergie (avant 07/2021);A;1;2
+92077;2025;DPE énergie (avant 07/2021);B;2;24
+92077;2025;DPE énergie (avant 07/2021);C;3;103
+92077;2025;DPE énergie (avant 07/2021);D;4;4
+92077;2025;DPE énergie (avant 07/2021);E;5;0
+92077;2025;DPE énergie (avant 07/2021);F;6;0
+92077;2025;DPE énergie (avant 07/2021);G;7;0
+92077;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92077;2025;DPE énergie (depuis 07/2021);A;1;0
+92077;2025;DPE énergie (depuis 07/2021);B;2;1
+92077;2025;DPE énergie (depuis 07/2021);C;3;263
+92077;2025;DPE énergie (depuis 07/2021);D;4;122
+92077;2025;DPE énergie (depuis 07/2021);E;5;66
+92077;2025;DPE énergie (depuis 07/2021);F;6;7
+92077;2025;DPE énergie (depuis 07/2021);G;7;0
+92077;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92077;2025;Financement d'origine;PLAI;1;63
+92077;2025;Financement d'origine;PLUS avant 1977;2;108
+92077;2025;Financement d'origine;PLUS après 1977;3;240
+92077;2025;Financement d'origine;PLS;4;195
+92077;2025;Financement d'origine;PLI;5;34
+92077;2025;Nombre de pièces;1 pièce;1;114
+92077;2025;Nombre de pièces;2 pièces;2;174
+92077;2025;Nombre de pièces;3 pièces;3;241
+92077;2025;Nombre de pièces;4 pièces;4;90
+92077;2025;Nombre de pièces;5 pièces et +;5;21
+92077;2025;Type de construction;Individuel;1;5
+92077;2025;Type de construction;Collectif;2;635
+92077;2025;Âge du parc;Moins de 5 ans;1;71
+92077;2025;Âge du parc;5 à 10 ans;2;68
+92077;2025;Âge du parc;10 à 20 ans;3;266
+92077;2025;Âge du parc;20 à 40 ans;4;63
+92077;2025;Âge du parc;40 à 60 ans;5;67
+92077;2025;Âge du parc;Plus de 60 ans;6;105
+92078;2025;DPE énergie (avant 07/2021);A;1;72
+92078;2025;DPE énergie (avant 07/2021);B;2;60
+92078;2025;DPE énergie (avant 07/2021);C;3;347
+92078;2025;DPE énergie (avant 07/2021);D;4;1938
+92078;2025;DPE énergie (avant 07/2021);E;5;5
+92078;2025;DPE énergie (avant 07/2021);F;6;42
+92078;2025;DPE énergie (avant 07/2021);G;7;0
+92078;2025;DPE énergie (avant 07/2021);Non renseigné;8;0
+92078;2025;DPE énergie (depuis 07/2021);A;1;20
+92078;2025;DPE énergie (depuis 07/2021);B;2;81
+92078;2025;DPE énergie (depuis 07/2021);C;3;725
+92078;2025;DPE énergie (depuis 07/2021);D;4;976
+92078;2025;DPE énergie (depuis 07/2021);E;5;150
+92078;2025;DPE énergie (depuis 07/2021);F;6;0
+92078;2025;DPE énergie (depuis 07/2021);G;7;0
+92078;2025;DPE énergie (depuis 07/2021);Non renseigné;8;0
+92078;2025;Financement d'origine;PLAI;1;43
+92078;2025;Financement d'origine;PLUS avant 1977;2;3038
+92078;2025;Financement d'origine;PLUS après 1977;3;1271
+92078;2025;Financement d'origine;PLS;4;160
+92078;2025;Financement d'origine;PLI;5;260
+92078;2025;Nombre de pièces;1 pièce;1;266
+92078;2025;Nombre de pièces;2 pièces;2;892
+92078;2025;Nombre de pièces;3 pièces;3;1897
+92078;2025;Nombre de pièces;4 pièces;4;1484
+92078;2025;Nombre de pièces;5 pièces et +;5;233
+92078;2025;Type de construction;Individuel;1;13
+92078;2025;Type de construction;Collectif;2;4759
+92078;2025;Âge du parc;Moins de 5 ans;1;0
+92078;2025;Âge du parc;5 à 10 ans;2;123
+92078;2025;Âge du parc;10 à 20 ans;3;104
+92078;2025;Âge du parc;20 à 40 ans;4;480
+92078;2025;Âge du parc;40 à 60 ans;5;2001
+92078;2025;Âge du parc;Plus de 60 ans;6;2064

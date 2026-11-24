@@ -1,0 +1,206 @@
+Année 2024 | feuille 'COMMUNES' | format : codes | ligne des codes : 5 | première ligne de données : 6
+  0 | REG                       | Région
+  1 | DEP                       | Département
+  2 | DEPCOM_ARM                | Commune
+  3 | LIBCOM_DEP                | Commune
+  4 | LIBCOM                    | Commune
+  5 | nb_loues                  | Ensemble du parc | Répartition par mode (en effectif) | proposés à la location | loués
+  6 | nb_vacants                | Ensemble du parc | Répartition par mode (en effectif) | proposés à la location | vacants
+  7 | nb_vides                  | Ensemble du parc | Répartition par mode (en effectif) | vides
+  8 | nb_asso                   | Ensemble du parc | Répartition par mode (en effectif) | pris en charge par une association
+  9 | nb_occup_finan            | Ensemble du parc | Répartition par mode (en effectif) | occupés avec ou sans contrepartie financière
+ 10 | nb_occup_temp             | Ensemble du parc | Répartition par mode (en effectif) | occupé pour de l'hébergement temporaire
+ 11 | nb_ls                     | Ensemble du parc | Ensemble du parc social
+ 12 | parc_non_conv             | Ensemble du parc | Parc non conventionné des SEM
+ 13 | nb_lgt_tot                | Ensemble du parc | Ensemble du parc locatif des bailleurs sociaux
+ 14 | densite                   | Ensemble du parc | Densité pour 100 résidences principales (source : RP 2021)
+ 15 | nb_ls_en_qpv              | Ensemble du parc | Nombre de logements en QPV
+ 16 | nb_ls_individuels         | Ensemble du parc | Type de construction (en effectif) | Individuel
+ 17 | nb_ls_collectifs          | Ensemble du parc | Type de construction (en effectif) | Collectif
+ 18 | nb_ls_1piece              | Ensemble du parc | Nombre de pièces (en effectif) | 1
+ 19 | nb_ls_2piece              | Ensemble du parc | Nombre de pièces (en effectif) | 2
+ 20 | nb_ls_3piece              | Ensemble du parc | Nombre de pièces (en effectif) | 3
+ 21 | nb_ls_4piece              | Ensemble du parc | Nombre de pièces (en effectif) | 4
+ 22 | nb_ls_5piece_plus         | Ensemble du parc | Nombre de pièces (en effectif) | 5 et plus
+ 23 | nb_ls_plai                | Ensemble du parc | Financement d'origine (en effectif) | PLAI
+ 24 | nb_ls_plus_ap_77          | Ensemble du parc | Financement d'origine (en effectif) | PLUS après 1977 (*)
+ 25 | nb_ls_plus_av_77          | Ensemble du parc | Financement d'origine (en effectif) | PLUS avant 1977 (*)
+ 26 | nb_ls_pls                 | Ensemble du parc | Financement d'origine (en effectif) | PLS
+ 27 | nb_ls_pli                 | Ensemble du parc | Financement d'origine (en effectif) | PLI
+ 28 | nb_ls2023                 | Evolution du parc | Ensemble du parc social 2023 - nouvelles estimation
+ 29 | nb_ls2023                 | Evolution du parc | Ensemble du parc social 2023 - ancienne estimation
+ 30 | nb_ls2022                 | Evolution du parc | Ensemble du parc social 2022
+ 31 | nb_ls2021                 | Evolution du parc | Ensemble du parc social 2021
+ 32 | nb_ls2020                 | Evolution du parc | Ensemble du parc social 2020
+ 33 | nb_ls2019                 | Evolution du parc | Ensemble du parc social 2019
+ 34 | nb_ls2018                 | Evolution du parc | Ensemble du parc social 2018
+ 35 | nb_ls2017                 | Evolution du parc | Ensemble du parc social 2017
+ 36 | nb_ls2016                 | Evolution du parc | Ensemble du parc social 2016
+ 37 | nb_ls2015                 | Evolution du parc | Ensemble du parc social 2015
+ 38 | nb_ls2014                 | Evolution du parc | Ensemble du parc social 2014
+ 39 | nb_ls2013                 | Evolution du parc | Ensemble du parc social 2013
+ 40 | evol_2023                 | Evolution du parc | Evolution du parc complet 2024/2023 %
+ 41 | evol_2022                 | Evolution du parc | Evolution du parc complet 2023/2022 % nouvelle estimation
+ 42 | evol_2022                 | Evolution du parc | Evolution du parc complet 2023/2022 % ancienne estimation
+ 43 | evol_2021                 | Evolution du parc | Evolution du parc complet 2022/2021 %
+ 44 | evol_2020                 | Evolution du parc | Evolution du parc complet 2021/2020 %
+ 45 | evol_2019                 | Evolution du parc | Evolution du parc complet 2020/2019 %
+ 46 | evol_2018                 | Evolution du parc | Evolution du parc complet 2019/2018 %
+ 47 | evol_2017                 | Evolution du parc | Evolution du parc complet 2018/2017 %
+ 48 | evol_2016                 | Evolution du parc | Evolution du parc complet 2017/2016 %
+ 49 | evol_2015                 | Evolution du parc | Evolution du parc complet 2016/2015 %
+ 50 | evol_2014                 | Evolution du parc | Evolution du parc complet 2015/2014 %
+ 51 | evol_2013                 | Evolution du parc | Evolution du parc complet 2014/2013 %
+ 52 | nv_mes                    | Evolution du parc | Mises en service au 1er janvier 2024
+ 53 | nv_mes_2023               | Evolution du parc | Mises en service au 1er janvier 2023 - nouvelle estimation
+ 54 | nv_mes_2023               | Evolution du parc | Mises en service au 1er janvier 2023 - ancienne estimation
+ 55 | nv_mes_2022               | Evolution du parc | Mises en service au 1er janvier 2022
+ 56 | nv_mes_2021               | Evolution du parc | Mises en service au 1er janvier 2021
+ 57 | nv_mes_2020               | Evolution du parc | Mises en service au 1er janvier 2020
+ 58 | nv_mes_2019               | Evolution du parc | Mises en service au 1er janvier 2019
+ 59 | nv_mes_2018               | Evolution du parc | Mises en service au 1er janvier 2018
+ 60 | nv_mes_2017               | Evolution du parc | Mises en service au 1er janvier 2017
+ 61 | nv_mes_2016               | Evolution du parc | Mises en service au 1er janvier 2016
+ 62 | nv_mes_2015               | Evolution du parc | Mises en service au 1er janvier 2015
+ 63 | nv_mes_2014               | Evolution du parc | Mises en service au 1er janvier 2014
+ 64 | nv_mes_2013               | Evolution du parc | Mises en service au 1er janvier 2013
+ 65 | nb_ls_const_org           | Evolution du parc | Mises en service 2024 par origine | Construit par l'organisme
+ 66 | nb_ls_av_trav             | Evolution du parc | Mises en service 2024 par origine | Acquis avec travaux
+ 67 | nb_ls_ss_trav             | Evolution du parc | Mises en service 2024 par origine | Acquis sans travaux
+ 68 | nb_ls_vefa                | Evolution du parc | Mises en service 2024 par origine | Acquis en VEFA
+ 69 | nb_ls_vendu_occupant      | Evolution du parc | Ventilation des sorties (en effectif) | Ventes à l'occupant
+ 70 | nb_ls_vendu_autre_bailleur | Evolution du parc | Ventilation des sorties (en effectif) | Vente autre bailleur
+ 71 | nb_ls_autre_vente         | Evolution du parc | Ventilation des sorties (en effectif) | Autre vente
+ 72 | nb_ls_demolition          | Evolution du parc | Ventilation des sorties (en effectif) | Démolition
+ 73 | nb_ls_sortie_autre_motif  | Evolution du parc | Ventilation des sorties (en effectif) | Autre motif
+ 74 | nb_ls_chgt_usage          | Evolution du parc | Changement d'usage | Changement d'usage
+ 75 | nb_ls_fusion_scission     | Evolution du parc | Changement d'usage | Fusion scission
+ 76 | age                       | Evolution du parc | Age moyen du parc (année de construction)
+ 77 | age_inf_5                 | Evolution du parc | Répartition par tranche d’âge (en effectif ; année de construction) | Moins de 5 ans
+ 78 | age_5_10                  | Evolution du parc | Répartition par tranche d’âge (en effectif ; année de construction) | Entre 5 et 10 ans
+ 79 | age_10_20                 | Evolution du parc | Répartition par tranche d’âge (en effectif ; année de construction) | Entre 10 et 20 ans
+ 80 | age_20_40                 | Evolution du parc | Répartition par tranche d’âge (en effectif ; année de construction) | Entre 20 et 40 ans
+ 81 | age_40_60                 | Evolution du parc | Répartition par tranche d’âge (en effectif ; année de construction) | Entre 40 et 60 ans
+ 82 | age_60_plus               | Evolution du parc | Répartition par tranche d’âge (en effectif ; année de construction) | plus de 60 ans
+ 83 | 2019                      | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Répartition par année de première mise en location | 2019
+ 84 | 2020                      | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Répartition par année de première mise en location | 2020
+ 85 | 2021                      | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Répartition par année de première mise en location | 2021
+ 86 | 2022                      | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Répartition par année de première mise en location | 2022
+ 87 | 2023                      | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Répartition par année de première mise en location | 2023
+ 88 | nb_ls_individuels_recent  | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Type de construction (en effectif) | Individuel
+ 89 | nb_ls_collectifs_recent   | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Type de construction (en effectif) | Collectif
+ 90 | nb_neuf                   | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Neuf (en effectif)
+ 91 | nb_ls_1piece_recent       | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Nombre de pièces (en effectif) | 1
+ 92 | nb_ls_2piece_recent       | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Nombre de pièces (en effectif) | 2
+ 93 | nb_ls_3piece_recent       | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Nombre de pièces (en effectif) | 3
+ 94 | nb_ls_4piece_recent       | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Nombre de pièces (en effectif) | 4
+ 95 | nb_ls_5piece_plus_recent  | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Nombre de pièces (en effectif) | 5 et plus
+ 96 | nb_ls_en_qpv_recent       | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | QPV (en effectif)
+ 97 | nb_ls_plai_recent         | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Financement d'origine (en effectif) | PLAI
+ 98 | nb_ls_plus_recent         | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Financement d'origine (en effectif) | PLUS
+ 99 | nb_ls_pls_recent          | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Financement d'origine (en effectif) | PLS
+100 | nb_ls_pli_recent          | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Financement d'origine (en effectif) | PLI
+101 | ener_AB                   | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | DPE consommation énergie, A&B en effectif
+102 | serre_AB                  | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | DPE classe de l’impact sur l’effet de serre, A&B en effectif
+103 | nb_loues_vacant           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Nombre de loués ou proposés à la location
+104 | tx_vac                    | Vacances et mobilité | Taux de vacance % | totale | Au 01/01/2024
+105 | tx_vac_2023               | Vacances et mobilité | Taux de vacance % | totale | Au 01/01/2023
+106 | tx_vac_2022               | Vacances et mobilité | Taux de vacance % | totale | Au 01/01/2022
+107 | tx_vac_2021               | Vacances et mobilité | Taux de vacance % | totale | Au 01/01/2021
+108 | tx_vac_2020               | Vacances et mobilité | Taux de vacance % | totale | Au 01/01/2020
+109 | tx_vac_2019               | Vacances et mobilité | Taux de vacance % | totale | Au 01/01/2019
+110 | tx_vac_2018               | Vacances et mobilité | Taux de vacance % | totale | Au 01/01/2018
+111 | tx_vac_2017               | Vacances et mobilité | Taux de vacance % | totale | Au 01/01/2017
+112 | tx_vac_2016               | Vacances et mobilité | Taux de vacance % | totale | Au 01/01/2016
+113 | tx_vac_2015               | Vacances et mobilité | Taux de vacance % | totale | Au 01/01/2015
+114 | tx_vac_2014               | Vacances et mobilité | Taux de vacance % | totale | Au 01/01/2014
+115 | tx_vac_2013               | Vacances et mobilité | Taux de vacance % | totale | Au 01/01/2013
+116 | tx_vac3                   | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2024
+117 | tx_vac_3_2023             | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2023
+118 | tx_vac_3_2022             | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2022
+119 | tx_vac_3_2021             | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2021
+120 | tx_vac_3_2020             | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2020
+121 | tx_vac_3_2019             | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2019
+122 | tx_vac_3_2018             | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2018
+123 | tx_vac_3_2017             | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2017
+124 | tx_vac_3_2016             | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2016
+125 | tx_vac_3_2015             | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2015
+126 | tx_vac_3_2014             | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2014
+127 | tx_vac_3_2013             | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2013
+128 | tx_mob                    | Vacances et mobilité | Taux de mobilité % | Au 01/01/2024
+129 | tx_mob_2023               | Vacances et mobilité | Taux de mobilité % | Au 01/01/2023
+130 | tx_mob_2022               | Vacances et mobilité | Taux de mobilité % | Au 01/01/2022
+131 | tx_mob_2021               | Vacances et mobilité | Taux de mobilité % | Au 01/01/2021
+132 | tx_mob_2020               | Vacances et mobilité | Taux de mobilité % | Au 01/01/2020
+133 | tx_mob_2019               | Vacances et mobilité | Taux de mobilité % | Au 01/01/2019
+134 | tx_mob_2018               | Vacances et mobilité | Taux de mobilité % | Au 01/01/2018
+135 | tx_mob_2017               | Vacances et mobilité | Taux de mobilité % | Au 01/01/2017
+136 | tx_mob_2016               | Vacances et mobilité | Taux de mobilité % | Au 01/01/2016
+137 | tx_mob_2015               | Vacances et mobilité | Taux de mobilité % | Au 01/01/2015
+138 | tx_mob_2014               | Vacances et mobilité | Taux de mobilité % | Au 01/01/2014
+139 | tx_mob_2013               | Vacances et mobilité | Taux de mobilité % | Au 01/01/2013
+140 | loymoy                    | Loyers | Loyer moyen 2024, parc complet | Au 01/01/2013
+141 | loymoy_2023               | Loyers | Loyer moyen 2023, parc complet - nouvelle estimation | Au 01/01/2013
+142 | loymoy_2023               | Loyers | Loyer moyen 2023, parc complet - ancienne estimation | Au 01/01/2013
+143 | loymoy_2022               | Loyers | Loyer moyen 2022, parc complet | Au 01/01/2013
+144 | loymoy_2021               | Loyers | Loyer moyen 2021, parc complet | Au 01/01/2013
+145 | loymoy_2020               | Loyers | Loyer moyen 2020, parc complet | Au 01/01/2013
+146 | loymoy_2019               | Loyers | Loyer moyen 2019, parc complet | Au 01/01/2013
+147 | loymoy_2018               | Loyers | Loyer moyen 2018, parc complet | Au 01/01/2013
+148 | loymoy_2017               | Loyers | Loyer moyen 2017, parc complet | Au 01/01/2013
+149 | loymoy_2016               | Loyers | Loyer moyen 2016, parc complet | Au 01/01/2013
+150 | loymoy_2015               | Loyers | Loyer moyen 2015, parc complet | Au 01/01/2013
+151 | loymoy_2014               | Loyers | Loyer moyen 2014, parc complet | Au 01/01/2013
+152 | loymoy_2013               | Loyers | Loyer moyen 2013, parc complet | Au 01/01/2013
+153 | evol_loyer2023            | Loyers | Evolution 2024/2023 % | Au 01/01/2013
+154 | evol_loyer2022            | Loyers | Evolution 2023/2022 % nouvelle estimation | Au 01/01/2013
+155 | evol_loyer2022            | Loyers | Evolution 2023/2022 % ancienne estimation | Au 01/01/2013
+156 | evol_loyer2021            | Loyers | Evolution 2022/2021 % | Au 01/01/2013
+157 | evol_loyer2020            | Loyers | Evolution 2021/2020 % | Au 01/01/2013
+158 | evol_loyer2019            | Loyers | Evolution 2020/2019 % | Au 01/01/2013
+159 | evol_loyer2018            | Loyers | Evolution 2019/2018 % | Au 01/01/2013
+160 | evol_loyer2017            | Loyers | Evolution 2018/2017 % | Au 01/01/2013
+161 | evol_loyer2016            | Loyers | Evolution 2017/2016 % | Au 01/01/2013
+162 | evol_loyer2015            | Loyers | Evolution 2016/2015 % | Au 01/01/2013
+163 | evol_loyer2014            | Loyers | Evolution 2015/2014 % | Au 01/01/2013
+164 | evol_loyer2013            | Loyers | Evolution 2014/2013 % | Au 01/01/2013
+165 | loymoy_q2                 | Loyers | Nombre de logements dont le loyer moyen est % | < 1er quartile : 5,03 euros / m2 de surface habitable
+166 | loymoy_q4                 | Loyers | Nombre de logements dont le loyer moyen est % | > 3e quartile : 6,71 euros / m2 de surface habitable
+167 | loymoy_r                  | Loyers | Loyer moyen parc récent
+168 | loymoy_plai               | Loyers | Loyer moyen par financement | PLAI
+169 | loymoy_plus_av            | Loyers | Loyer moyen par financement | PLUS avant 1977
+170 | loymoy_plus_ap            | Loyers | Loyer moyen par financement | PLUS après 1977
+171 | loymoy_pls                | Loyers | Loyer moyen par financement | PLS
+172 | loymoy_pli                | Loyers | Loyer moyen par financement | PLI
+173 | loymoy_inf_5              | Loyers | Loyer moyen par tranche de construction | 5 ans ou moins
+174 | loymoy_5_10               | Loyers | Loyer moyen par tranche de construction | Entre 5 et 10 ans
+175 | loymoy_10_20              | Loyers | Loyer moyen par tranche de construction | Entre 10 et 20 ans
+176 | loymoy_20_40              | Loyers | Loyer moyen par tranche de construction | Entre 20 et 40 ans
+177 | loymoy_40_60              | Loyers | Loyer moyen par tranche de construction | Entre 40 et 60 ans
+178 | loymoy_60_plus            | Loyers | Loyer moyen par tranche de construction | plus de 60 ans
+179 | serre_A                   | DPE effet de serre (en effectif) (avant 07/2021) | A
+180 | serre_B                   | DPE effet de serre (en effectif) (avant 07/2021) | B
+181 | serre_C                   | DPE effet de serre (en effectif) (avant 07/2021) | C
+182 | serre_D                   | DPE effet de serre (en effectif) (avant 07/2021) | D
+183 | serre_E                   | DPE effet de serre (en effectif) (avant 07/2021) | E
+184 | serre_F                   | DPE effet de serre (en effectif) (avant 07/2021) | F
+185 | serre_G                   | DPE effet de serre (en effectif) (avant 07/2021) | G
+186 | serre_NR                  | DPE effet de serre (en effectif) (avant 07/2021) | NR
+187 | ener_A                    | DPE énergie (en effectif) (avant 07/2021) | A
+188 | ener_B                    | DPE énergie (en effectif) (avant 07/2021) | B
+189 | ener_C                    | DPE énergie (en effectif) (avant 07/2021) | C
+190 | ener_D                    | DPE énergie (en effectif) (avant 07/2021) | D
+191 | ener_E                    | DPE énergie (en effectif) (avant 07/2021) | E
+192 | ener_F                    | DPE énergie (en effectif) (avant 07/2021) | F
+193 | ener_G                    | DPE énergie (en effectif) (avant 07/2021) | G
+194 | ener_NR                   | DPE énergie (en effectif) (avant 07/2021) | NR
+195 | ener_A_new                | DPE énergie (en effectif) (après 07/2021) | A
+196 | ener_B_new                | DPE énergie (en effectif) (après 07/2021) | B
+197 | ener_C_new                | DPE énergie (en effectif) (après 07/2021) | C
+198 | ener_D_new                | DPE énergie (en effectif) (après 07/2021) | D
+199 | ener_E_new                | DPE énergie (en effectif) (après 07/2021) | E
+200 | ener_F_new                | DPE énergie (en effectif) (après 07/2021) | F
+201 | ener_G_new                | DPE énergie (en effectif) (après 07/2021) | G
+202 | ener_NR_new               | DPE énergie (en effectif) (après 07/2021) | NR
+203 | nb_dpe_realise            | Nombre de logements dont le DPE a été réalisé
+204 | perc_dpe_realise          | Pourcentage de logements dont le DPE a été réalisé

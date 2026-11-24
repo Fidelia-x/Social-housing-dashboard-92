@@ -1,0 +1,168 @@
+Année 2021 | feuille 'Commune' | format : titres | ligne des codes : None | première ligne de données : 4
+  0 |                           | Région
+  1 |                           | Commune (DEP)
+  2 |                           | Commune (DEP)
+  3 |                           | Parc complet | Répartition par mode (en effectif) | proposés à la location | loués
+  4 |                           | Parc complet | Répartition par mode (en effectif) | proposés à la location | vacants
+  5 |                           | Parc complet | Répartition par mode (en effectif) | vides
+  6 |                           | Parc complet | Répartition par mode (en effectif) | pris en charge par une association
+  7 |                           | Parc complet | Répartition par mode (en effectif) | occupés avec ou sans contrepartie financière
+  8 |                           | Parc complet | Répartition par mode (en effectif) | occupé pour de l'hébergement temporaire
+  9 |                           | Parc complet | Répartition par mode (en effectif) | Ensemble du parc social
+ 10 |                           | Parc complet | Répartition par mode (en effectif) | Parc non conventionné des SEM
+ 11 |                           | Parc complet | Répartition par mode (en effectif) | Ensemble du parc locatif des bailleurs sociaux
+ 12 |                           | Parc complet | Densité pour 100 résidences principales (source : RP 2017)
+ 13 |                           | Parc complet | Nombre de logements en QPV
+ 14 |                           | Parc complet | Type de construction (en effectif) | Individuel
+ 15 |                           | Parc complet | Type de construction (en effectif) | Collectif
+ 16 |                           | Parc complet | Nombre de pièces (en effectif) | 1
+ 17 |                           | Parc complet | Nombre de pièces (en effectif) | 2
+ 18 |                           | Parc complet | Nombre de pièces (en effectif) | 3
+ 19 |                           | Parc complet | Nombre de pièces (en effectif) | 4
+ 20 |                           | Parc complet | Nombre de pièces (en effectif) | 5 et plus
+ 21 |                           | Parc complet | Financement d'origine (en effectif) | PLAI
+ 22 |                           | Parc complet | Financement d'origine (en effectif) | PLUS avant 1977 (*)
+ 23 |                           | Parc complet | Financement d'origine (en effectif) | PLUS après 1977 (*)
+ 24 |                           | Parc complet | Financement d'origine (en effectif) | PLS
+ 25 |                           | Parc complet | Financement d'origine (en effectif) | PLI
+ 26 |                           | Ensemble du parc social | Ensemble du parc social 2020
+ 27 |                           | Ensemble du parc social | Ensemble du parc social 2019
+ 28 |                           | Ensemble du parc social | Ensemble du parc social 2018
+ 29 |                           | Ensemble du parc social | Ensemble du parc social 2017
+ 30 |                           | Ensemble du parc social | Ensemble du parc social 2016
+ 31 |                           | Ensemble du parc social | Ensemble du parc social 2015
+ 32 |                           | Ensemble du parc social | Ensemble du parc social 2014
+ 33 |                           | Ensemble du parc social | Ensemble du parc social 2013
+ 34 |                           | Evolution du parc | Evolution du parc complet 2021/2020 %
+ 35 |                           | Evolution du parc | Evolution du parc complet 2020/2019 %
+ 36 |                           | Evolution du parc | Evolution du parc complet 2019/2018 %
+ 37 |                           | Evolution du parc | Evolution du parc complet 2018/2017 %
+ 38 |                           | Evolution du parc | Evolution du parc complet 2017/2016 %
+ 39 |                           | Evolution du parc | Evolution du parc complet 2016/2015 %
+ 40 |                           | Evolution du parc | Evolution du parc complet 2015/2014 %
+ 41 |                           | Evolution du parc | Evolution du parc complet 2014/2013 %
+ 42 |                           | Mises en service | Mises en service au 1er janvier 2021
+ 43 |                           | Mises en service | Mises en service au 1er janvier 2020
+ 44 |                           | Mises en service | Mises en service au 1er janvier 2019
+ 45 |                           | Mises en service | Mises en service au 1er janvier 2018
+ 46 |                           | Mises en service | Mises en service au 1er janvier 2017
+ 47 |                           | Mises en service | Mises en service au 1er janvier 2016
+ 48 |                           | Mises en service | Mises en service au 1er janvier 2015
+ 49 |                           | Mises en service | Mises en service au 1er janvier 2014
+ 50 |                           | Mises en service | Mises en service au 1er janvier 2013
+ 51 |                           | Mises en service | Mises en service 2020 par origine | Construit par l'organisme
+ 52 |                           | Mises en service | Mises en service 2020 par origine | Acquis avec travaux
+ 53 |                           | Mises en service | Mises en service 2020 par origine | Acquis sans travaux
+ 54 |                           | Mises en service | Mises en service 2020 par origine | Acquis en VEFA
+ 55 |                           | Mises en service | Ventilation des sorties (en effectif) | Ventes à l'occupant
+ 56 |                           | Mises en service | Ventilation des sorties (en effectif) | Vente autre bailleur
+ 57 |                           | Mises en service | Ventilation des sorties (en effectif) | Autre vente
+ 58 |                           | Mises en service | Ventilation des sorties (en effectif) | Démolition
+ 59 |                           | Mises en service | Ventilation des sorties (en effectif) | Autre motif
+ 60 |                           | Mises en service | Changement d'usage | Changement d'usage
+ 61 |                           | Mises en service | Changement d'usage | Fusion scission
+ 62 |                           | Mises en service | Age moyen du parc (année de construction)
+ 63 |                           | Mises en service | Répartition par tranche d’âge (en effectif ; année de construction) | Moins de 5 ans
+ 64 |                           | Mises en service | Répartition par tranche d’âge (en effectif ; année de construction) | Entre 5 et 10 ans
+ 65 |                           | Mises en service | Répartition par tranche d’âge (en effectif ; année de construction) | Entre 10 et 20 ans
+ 66 |                           | Mises en service | Répartition par tranche d’âge (en effectif ; année de construction) | Entre 20 et 40 ans
+ 67 |                           | Mises en service | Répartition par tranche d’âge (en effectif ; année de construction) | Entre 40 et 60 ans
+ 68 |                           | Mises en service | Répartition par tranche d’âge (en effectif ; année de construction) | plus de 60 ans
+ 69 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Répartition par année de première mise en location | 2016
+ 70 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Répartition par année de première mise en location | 2017
+ 71 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Répartition par année de première mise en location | 2018
+ 72 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Répartition par année de première mise en location | 2019
+ 73 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Répartition par année de première mise en location | 2020
+ 74 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Répartition par année de première mise en location | 2021
+ 75 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Type de construction (en effectif) | Individuel | individuel
+ 76 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Type de construction (en effectif) | Collectif | individuel
+ 77 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Neuf (en effectif)
+ 78 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Nombre de pièces (en effectif) | 1
+ 79 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Nombre de pièces (en effectif) | 2
+ 80 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Nombre de pièces (en effectif) | 3
+ 81 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Nombre de pièces (en effectif) | 4
+ 82 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Nombre de pièces (en effectif) | 5 et plus
+ 83 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | QPV (en effectif)
+ 84 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Fiancement d'origine (en effectif) | PLAI
+ 85 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Fiancement d'origine (en effectif) | PLUS
+ 86 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Fiancement d'origine (en effectif) | PLS
+ 87 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Fiancement d'origine (en effectif) | PLI
+ 88 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | DPE consommation énergie, A&B en effectif
+ 89 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | DPE classe de l’impact sur l’effet de serre, A&B en effectif
+ 90 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Nombre de loués ou proposés à la location
+ 91 |                           | Parc récent (mis en service il y a 5 ans ou moins, i,e dont l'année de première mise en location dans le parc social est supérieure ou égale à 2015) | Nombre de loués ou proposés à la location | totale | Au 01/01/2021
+ 92 |                           | Vacances et mobilité | Taux de vacance % | Au 01/01/2020
+ 93 |                           | Vacances et mobilité | Taux de vacance % | Au 01/01/2019
+ 94 |                           | Vacances et mobilité | Taux de vacance % | Au 01/01/2018
+ 95 |                           | Vacances et mobilité | Taux de vacance % | Au 01/01/2017
+ 96 |                           | Vacances et mobilité | Taux de vacance % | Au 01/01/2016
+ 97 |                           | Vacances et mobilité | Taux de vacance % | Au 01/01/2015
+ 98 |                           | Vacances et mobilité | Taux de vacance % | Au 01/01/2014
+ 99 |                           | Vacances et mobilité | Taux de vacance % | Au 01/01/2013
+100 |                           | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2021
+101 |                           | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2020
+102 |                           | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2019
+103 |                           | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2018
+104 |                           | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2017
+105 |                           | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2016
+106 |                           | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2015
+107 |                           | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2014
+108 |                           | Vacances et mobilité | Taux de vacance % | > 3 mois | Au 01/01/2013
+109 |                           | Vacances et mobilité | Taux de mobilité % | Au 01/01/2021
+110 |                           | Vacances et mobilité | Taux de mobilité % | Au 01/01/2020
+111 |                           | Vacances et mobilité | Taux de mobilité % | Au 01/01/2019
+112 |                           | Vacances et mobilité | Taux de mobilité % | Au 01/01/2018
+113 |                           | Vacances et mobilité | Taux de mobilité % | Au 01/01/2017
+114 |                           | Vacances et mobilité | Taux de mobilité % | Au 01/01/2016
+115 |                           | Vacances et mobilité | Taux de mobilité % | Au 01/01/2015
+116 |                           | Vacances et mobilité | Taux de mobilité % | Au 01/01/2014
+117 |                           | Vacances et mobilité | Taux de mobilité % | Au 01/01/2013
+118 |                           | Loyers | Loyer moyen 2021, parc complet | Au 01/01/2013
+119 |                           | Loyers | Loyer moyen 2020, parc complet | Au 01/01/2013
+120 |                           | Loyers | Loyer moyen 2019, parc complet | Au 01/01/2013
+121 |                           | Loyers | Loyer moyen 2018, parc complet | Au 01/01/2013
+122 |                           | Loyers | Loyer moyen 2017, parc complet | Au 01/01/2013
+123 |                           | Loyers | Loyer moyen 2016, parc complet | Au 01/01/2013
+124 |                           | Loyers | Loyer moyen 2015, parc complet | Au 01/01/2013
+125 |                           | Loyers | Loyer moyen 2014, parc complet | Au 01/01/2013
+126 |                           | Loyers | Loyer moyen 2013, parc complet | Au 01/01/2013
+127 |                           | Loyers | Evolution 2021/2020 % | Au 01/01/2013
+128 |                           | Loyers | Evolution 2020/2019 % | Au 01/01/2013
+129 |                           | Loyers | Evolution 2019/2018 % | Au 01/01/2013
+130 |                           | Loyers | Evolution 2018/2017 % | Au 01/01/2013
+131 |                           | Loyers | Evolution 2017/2016 % | Au 01/01/2013
+132 |                           | Loyers | Evolution 2016/2015 % | Au 01/01/2013
+133 |                           | Loyers | Evolution 2015/2014 % | Au 01/01/2013
+134 |                           | Loyers | Evolution 2014/2013 % | Au 01/01/2013
+135 |                           | Loyers | Nombre de logements dont le loyer moyen est % | < 1er quartile : 5,03 euros / m2 de surface habitable
+136 |                           | Loyers | Nombre de logements dont le loyer moyen est % | > 3e quartile : 6,71 euros / m2 de surface habitable
+137 |                           | Loyers | Loyer moyen parc récent
+138 |                           | Loyers | Loyer moyen par financement | PLAI
+139 |                           | Loyers | Loyer moyen par financement | PLUS avant 1977
+140 |                           | Loyers | Loyer moyen par financement | PLUS après 1977
+141 |                           | Loyers | Loyer moyen par financement | PLS
+142 |                           | Loyers | Loyer moyen par financement | PLI
+143 |                           | Loyers | Loyer moyen par tranche de construction | 5 ans ou moins
+144 |                           | Loyers | Loyer moyen par tranche de construction | Entre 5 et 10 ans
+145 |                           | Loyers | Loyer moyen par tranche de construction | Entre 10 et 20 ans
+146 |                           | Loyers | Loyer moyen par tranche de construction | Entre 20 et 40 ans
+147 |                           | Loyers | Loyer moyen par tranche de construction | Entre 40 et 60 ans
+148 |                           | Loyers | Loyer moyen par tranche de construction | plus de 60 ans
+149 |                           | DPE effet de serre (en effectif) | A
+150 |                           | DPE effet de serre (en effectif) | B
+151 |                           | DPE effet de serre (en effectif) | C
+152 |                           | DPE effet de serre (en effectif) | D
+153 |                           | DPE effet de serre (en effectif) | E
+154 |                           | DPE effet de serre (en effectif) | F
+155 |                           | DPE effet de serre (en effectif) | G
+156 |                           | DPE effet de serre (en effectif) | NR
+157 |                           | DPE énergie (en effectif) | A
+158 |                           | DPE énergie (en effectif) | B
+159 |                           | DPE énergie (en effectif) | C
+160 |                           | DPE énergie (en effectif) | D
+161 |                           | DPE énergie (en effectif) | E
+162 |                           | DPE énergie (en effectif) | F
+163 |                           | DPE énergie (en effectif) | G
+164 |                           | DPE énergie (en effectif) | NR
+165 |                           | Nombre de logements dont le DPE a été réalisé
+166 |                           | Pourcentage de logements dont le DPE a été réalisé
