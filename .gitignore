@@ -1,0 +1,12 @@
+# Données brutes (trop lourdes)
+data/raw/*
+!data/raw/.gitkeep
+
+# Python
+__pycache__/
+.venv/
+
+# Fichiers temporaires Office / Power BI
+~$*
+*.tmp
+.DS_Store
